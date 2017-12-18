@@ -1,0 +1,7 @@
+C:\Projects\IntroAndBasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+C:\Projects\IntroAndBasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe
+C:\Projects\IntroAndBasicSyntax\CharacterStats\bin\Debug\CharacterStats.pdb
+C:\Projects\IntroAndBasicSyntax\CharacterStats\obj\Debug\CharacterStats.csprojResolveAssemblyReference.cache
+C:\Projects\IntroAndBasicSyntax\CharacterStats\obj\Debug\CharacterStats.csproj.CoreCompileInputs.cache
+C:\Projects\IntroAndBasicSyntax\CharacterStats\obj\Debug\CharacterStats.exe
+C:\Projects\IntroAndBasicSyntax\CharacterStats\obj\Debug\CharacterStats.pdb
