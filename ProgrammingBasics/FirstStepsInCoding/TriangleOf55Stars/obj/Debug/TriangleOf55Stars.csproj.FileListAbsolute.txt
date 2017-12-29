@@ -1,0 +1,6 @@
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

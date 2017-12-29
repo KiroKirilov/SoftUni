@@ -1,0 +1,6 @@
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.exe
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.pdb
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.exe
+C:\Users\7h3ph\source\repos\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.pdb
