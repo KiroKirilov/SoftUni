@@ -1,0 +1,11 @@
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\bin\Debug\netcoreapp2.0\Slicing.deps.json
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\bin\Debug\netcoreapp2.0\Slicing.runtimeconfig.json
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\bin\Debug\netcoreapp2.0\Slicing.runtimeconfig.dev.json
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\bin\Debug\netcoreapp2.0\Slicing.dll
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\bin\Debug\netcoreapp2.0\Slicing.pdb
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\obj\Debug\netcoreapp2.0\Slicing.csprojResolveAssemblyReference.cache
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\obj\Debug\netcoreapp2.0\Slicing.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\obj\Debug\netcoreapp2.0\Slicing.AssemblyInfoInputs.cache
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\obj\Debug\netcoreapp2.0\Slicing.AssemblyInfo.cs
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\obj\Debug\netcoreapp2.0\Slicing.dll
+C:\SoftUni\ProfessionalModules\AdvancedC#\Streams\Slicing\obj\Debug\netcoreapp2.0\Slicing.pdb

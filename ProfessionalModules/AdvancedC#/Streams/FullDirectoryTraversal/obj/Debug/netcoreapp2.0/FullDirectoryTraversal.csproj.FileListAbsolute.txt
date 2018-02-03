@@ -1,0 +1,10 @@
+C:\Projects\Streams\FullDirectoryTraversal\bin\Debug\netcoreapp2.0\FullDirectoryTraversal.deps.json
+C:\Projects\Streams\FullDirectoryTraversal\bin\Debug\netcoreapp2.0\FullDirectoryTraversal.runtimeconfig.json
+C:\Projects\Streams\FullDirectoryTraversal\bin\Debug\netcoreapp2.0\FullDirectoryTraversal.runtimeconfig.dev.json
+C:\Projects\Streams\FullDirectoryTraversal\bin\Debug\netcoreapp2.0\FullDirectoryTraversal.dll
+C:\Projects\Streams\FullDirectoryTraversal\bin\Debug\netcoreapp2.0\FullDirectoryTraversal.pdb
+C:\Projects\Streams\FullDirectoryTraversal\obj\Debug\netcoreapp2.0\FullDirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Projects\Streams\FullDirectoryTraversal\obj\Debug\netcoreapp2.0\FullDirectoryTraversal.AssemblyInfoInputs.cache
+C:\Projects\Streams\FullDirectoryTraversal\obj\Debug\netcoreapp2.0\FullDirectoryTraversal.AssemblyInfo.cs
+C:\Projects\Streams\FullDirectoryTraversal\obj\Debug\netcoreapp2.0\FullDirectoryTraversal.dll
+C:\Projects\Streams\FullDirectoryTraversal\obj\Debug\netcoreapp2.0\FullDirectoryTraversal.pdb

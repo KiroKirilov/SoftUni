@@ -1,0 +1,11 @@
+C:\Projects\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.deps.json
+C:\Projects\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.runtimeconfig.json
+C:\Projects\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.runtimeconfig.dev.json
+C:\Projects\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.dll
+C:\Projects\Streams\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.pdb
+C:\Projects\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.csprojResolveAssemblyReference.cache
+C:\Projects\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.AssemblyInfoInputs.cache
+C:\Projects\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.AssemblyInfo.cs
+C:\Projects\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.dll
+C:\Projects\Streams\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.pdb

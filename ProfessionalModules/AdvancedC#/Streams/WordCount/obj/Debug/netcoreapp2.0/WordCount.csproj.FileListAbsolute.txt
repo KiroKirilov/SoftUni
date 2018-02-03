@@ -1,0 +1,10 @@
+C:\Projects\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.deps.json
+C:\Projects\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.json
+C:\Projects\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.dev.json
+C:\Projects\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.dll
+C:\Projects\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.pdb
+C:\Projects\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Projects\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfoInputs.cache
+C:\Projects\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfo.cs
+C:\Projects\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.dll
+C:\Projects\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.pdb

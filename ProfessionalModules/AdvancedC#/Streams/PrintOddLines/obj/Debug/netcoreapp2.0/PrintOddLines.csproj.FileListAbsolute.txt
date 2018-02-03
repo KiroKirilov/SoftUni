@@ -1,0 +1,11 @@
+C:\Projects\Streams\PrintOddLines\bin\Debug\netcoreapp2.0\PrintOddLines.deps.json
+C:\Projects\Streams\PrintOddLines\bin\Debug\netcoreapp2.0\PrintOddLines.runtimeconfig.json
+C:\Projects\Streams\PrintOddLines\bin\Debug\netcoreapp2.0\PrintOddLines.runtimeconfig.dev.json
+C:\Projects\Streams\PrintOddLines\bin\Debug\netcoreapp2.0\PrintOddLines.dll
+C:\Projects\Streams\PrintOddLines\bin\Debug\netcoreapp2.0\PrintOddLines.pdb
+C:\Projects\Streams\PrintOddLines\obj\Debug\netcoreapp2.0\PrintOddLines.csprojResolveAssemblyReference.cache
+C:\Projects\Streams\PrintOddLines\obj\Debug\netcoreapp2.0\PrintOddLines.csproj.CoreCompileInputs.cache
+C:\Projects\Streams\PrintOddLines\obj\Debug\netcoreapp2.0\PrintOddLines.AssemblyInfoInputs.cache
+C:\Projects\Streams\PrintOddLines\obj\Debug\netcoreapp2.0\PrintOddLines.AssemblyInfo.cs
+C:\Projects\Streams\PrintOddLines\obj\Debug\netcoreapp2.0\PrintOddLines.dll
+C:\Projects\Streams\PrintOddLines\obj\Debug\netcoreapp2.0\PrintOddLines.pdb
