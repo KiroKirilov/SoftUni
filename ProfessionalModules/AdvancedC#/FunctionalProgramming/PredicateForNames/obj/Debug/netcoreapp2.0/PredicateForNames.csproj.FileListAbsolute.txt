@@ -1,0 +1,11 @@
+C:\Projects\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.deps.json
+C:\Projects\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.runtimeconfig.json
+C:\Projects\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.runtimeconfig.dev.json
+C:\Projects\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.dll
+C:\Projects\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.pdb
+C:\Projects\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Projects\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.AssemblyInfoInputs.cache
+C:\Projects\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.AssemblyInfo.cs
+C:\Projects\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.dll
+C:\Projects\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.pdb
+C:\Projects\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.csprojResolveAssemblyReference.cache

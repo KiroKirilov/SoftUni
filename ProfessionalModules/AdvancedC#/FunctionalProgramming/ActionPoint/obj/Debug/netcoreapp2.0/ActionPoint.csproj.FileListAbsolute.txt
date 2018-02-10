@@ -1,0 +1,11 @@
+C:\Projects\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.deps.json
+C:\Projects\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.runtimeconfig.json
+C:\Projects\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.runtimeconfig.dev.json
+C:\Projects\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.dll
+C:\Projects\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.pdb
+C:\Projects\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.csprojResolveAssemblyReference.cache
+C:\Projects\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.csproj.CoreCompileInputs.cache
+C:\Projects\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.AssemblyInfoInputs.cache
+C:\Projects\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.AssemblyInfo.cs
+C:\Projects\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.dll
+C:\Projects\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.pdb

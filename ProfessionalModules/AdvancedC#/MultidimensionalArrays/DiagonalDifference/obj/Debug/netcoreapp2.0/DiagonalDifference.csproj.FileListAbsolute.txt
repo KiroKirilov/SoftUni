@@ -1,0 +1,11 @@
+C:\Projects\MultidimensinalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.deps.json
+C:\Projects\MultidimensinalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.runtimeconfig.json
+C:\Projects\MultidimensinalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.runtimeconfig.dev.json
+C:\Projects\MultidimensinalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.dll
+C:\Projects\MultidimensinalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.pdb
+C:\Projects\MultidimensinalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Projects\MultidimensinalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Projects\MultidimensinalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Projects\MultidimensinalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.AssemblyInfo.cs
+C:\Projects\MultidimensinalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.dll
+C:\Projects\MultidimensinalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.pdb

@@ -1,0 +1,10 @@
+C:\Projects\FunctionalProgramming\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.deps.json
+C:\Projects\FunctionalProgramming\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.runtimeconfig.json
+C:\Projects\FunctionalProgramming\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.runtimeconfig.dev.json
+C:\Projects\FunctionalProgramming\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.dll
+C:\Projects\FunctionalProgramming\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.pdb
+C:\Projects\FunctionalProgramming\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.csproj.CoreCompileInputs.cache
+C:\Projects\FunctionalProgramming\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.AssemblyInfoInputs.cache
+C:\Projects\FunctionalProgramming\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.AssemblyInfo.cs
+C:\Projects\FunctionalProgramming\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.dll
+C:\Projects\FunctionalProgramming\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.pdb

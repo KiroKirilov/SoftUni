@@ -1,0 +1,11 @@
+C:\Projects\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp2.0\CustomMinFunc.csproj.CoreCompileInputs.cache
+C:\Projects\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp2.0\CustomMinFunc.AssemblyInfoInputs.cache
+C:\Projects\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp2.0\CustomMinFunc.AssemblyInfo.cs
+C:\Projects\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp2.0\CustomMinFunc.deps.json
+C:\Projects\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp2.0\CustomMinFunc.runtimeconfig.json
+C:\Projects\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp2.0\CustomMinFunc.runtimeconfig.dev.json
+C:\Projects\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp2.0\CustomMinFunc.dll
+C:\Projects\FunctionalProgramming\CustomMinFunc\bin\Debug\netcoreapp2.0\CustomMinFunc.pdb
+C:\Projects\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp2.0\CustomMinFunc.dll
+C:\Projects\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp2.0\CustomMinFunc.pdb
+C:\Projects\FunctionalProgramming\CustomMinFunc\obj\Debug\netcoreapp2.0\CustomMinFunc.csprojResolveAssemblyReference.cache

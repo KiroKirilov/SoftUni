@@ -1,0 +1,10 @@
+C:\Projects\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.deps.json
+C:\Projects\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.runtimeconfig.json
+C:\Projects\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.runtimeconfig.dev.json
+C:\Projects\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.dll
+C:\Projects\FunctionalProgramming\PredicateParty\bin\Debug\netcoreapp2.0\PredicateParty.pdb
+C:\Projects\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.csproj.CoreCompileInputs.cache
+C:\Projects\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.AssemblyInfoInputs.cache
+C:\Projects\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.AssemblyInfo.cs
+C:\Projects\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.dll
+C:\Projects\FunctionalProgramming\PredicateParty\obj\Debug\netcoreapp2.0\PredicateParty.pdb

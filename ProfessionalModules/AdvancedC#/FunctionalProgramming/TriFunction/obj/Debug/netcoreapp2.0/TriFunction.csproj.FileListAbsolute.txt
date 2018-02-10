@@ -1,0 +1,10 @@
+C:\Projects\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.deps.json
+C:\Projects\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.runtimeconfig.json
+C:\Projects\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.runtimeconfig.dev.json
+C:\Projects\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.dll
+C:\Projects\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.pdb
+C:\Projects\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.csproj.CoreCompileInputs.cache
+C:\Projects\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.AssemblyInfoInputs.cache
+C:\Projects\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.AssemblyInfo.cs
+C:\Projects\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.dll
+C:\Projects\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.pdb
