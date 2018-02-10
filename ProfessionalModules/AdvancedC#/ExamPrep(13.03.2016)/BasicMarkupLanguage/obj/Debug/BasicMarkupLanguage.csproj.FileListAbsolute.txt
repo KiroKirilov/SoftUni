@@ -1,0 +1,6 @@
+C:\Projects\ExamPrep(13.03.2016)\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Projects\ExamPrep(13.03.2016)\Monopoly\bin\Debug\Monopoly.exe
+C:\Projects\ExamPrep(13.03.2016)\Monopoly\bin\Debug\Monopoly.pdb
+C:\Projects\ExamPrep(13.03.2016)\Monopoly\obj\Debug\BasicMarkupLanguage.csproj.CoreCompileInputs.cache
+C:\Projects\ExamPrep(13.03.2016)\Monopoly\obj\Debug\Monopoly.exe
+C:\Projects\ExamPrep(13.03.2016)\Monopoly\obj\Debug\Monopoly.pdb

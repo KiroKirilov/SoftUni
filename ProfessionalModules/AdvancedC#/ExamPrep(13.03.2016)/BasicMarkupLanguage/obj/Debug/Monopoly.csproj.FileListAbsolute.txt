@@ -1,0 +1,2 @@
+C:\Projects\ExamPrep(13.03.2016)\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Projects\ExamPrep(13.03.2016)\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache

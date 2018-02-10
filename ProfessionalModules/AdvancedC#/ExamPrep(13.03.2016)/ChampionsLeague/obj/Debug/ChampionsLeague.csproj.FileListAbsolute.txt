@@ -1,0 +1,7 @@
+C:\Projects\ExamPrep(13.03.2016)\ChampionsLeague\bin\Debug\ChampionsLeague.exe.config
+C:\Projects\ExamPrep(13.03.2016)\ChampionsLeague\bin\Debug\ChampionsLeague.exe
+C:\Projects\ExamPrep(13.03.2016)\ChampionsLeague\bin\Debug\ChampionsLeague.pdb
+C:\Projects\ExamPrep(13.03.2016)\ChampionsLeague\obj\Debug\ChampionsLeague.csprojResolveAssemblyReference.cache
+C:\Projects\ExamPrep(13.03.2016)\ChampionsLeague\obj\Debug\ChampionsLeague.csproj.CoreCompileInputs.cache
+C:\Projects\ExamPrep(13.03.2016)\ChampionsLeague\obj\Debug\ChampionsLeague.exe
+C:\Projects\ExamPrep(13.03.2016)\ChampionsLeague\obj\Debug\ChampionsLeague.pdb
