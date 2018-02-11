@@ -1,0 +1,7 @@
+C:\Projects\Exam\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+C:\Projects\Exam\Problem1\bin\Debug\Problem1.exe.config
+C:\Projects\Exam\Problem1\bin\Debug\Problem1.exe
+C:\Projects\Exam\Problem1\bin\Debug\Problem1.pdb
+C:\Projects\Exam\Problem1\obj\Debug\Problem1.exe
+C:\Projects\Exam\Problem1\obj\Debug\Problem1.pdb
+C:\Projects\Exam\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache

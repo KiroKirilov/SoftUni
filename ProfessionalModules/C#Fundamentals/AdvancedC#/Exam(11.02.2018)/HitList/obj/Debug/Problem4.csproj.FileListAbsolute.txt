@@ -1,0 +1,7 @@
+C:\Projects\Exam\Problem4\bin\Debug\Problem4.exe.config
+C:\Projects\Exam\Problem4\bin\Debug\Problem4.exe
+C:\Projects\Exam\Problem4\bin\Debug\Problem4.pdb
+C:\Projects\Exam\Problem4\obj\Debug\Problem4.csprojResolveAssemblyReference.cache
+C:\Projects\Exam\Problem4\obj\Debug\Problem4.csproj.CoreCompileInputs.cache
+C:\Projects\Exam\Problem4\obj\Debug\Problem4.exe
+C:\Projects\Exam\Problem4\obj\Debug\Problem4.pdb
