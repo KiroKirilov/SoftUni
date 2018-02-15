@@ -9,3 +9,14 @@ C:\Projects\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.dll
 C:\Projects\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.pdb
 C:\Projects\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.dll
 C:\Projects\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.deps.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.runtimeconfig.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.runtimeconfig.dev.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.csprojResolveAssemblyReference.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.AssemblyInfoInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.AssemblyInfo.cs
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.pdb

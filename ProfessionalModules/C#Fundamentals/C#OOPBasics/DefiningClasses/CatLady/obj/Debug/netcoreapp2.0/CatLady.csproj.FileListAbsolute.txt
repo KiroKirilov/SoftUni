@@ -8,3 +8,13 @@ C:\Projects\DefiningClasses\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfo
 C:\Projects\DefiningClasses\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfo.cs
 C:\Projects\DefiningClasses\CatLady\obj\Debug\netcoreapp2.0\CatLady.dll
 C:\Projects\DefiningClasses\CatLady\obj\Debug\netcoreapp2.0\CatLady.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\bin\Debug\netcoreapp2.0\CatLady.deps.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\bin\Debug\netcoreapp2.0\CatLady.runtimeconfig.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\bin\Debug\netcoreapp2.0\CatLady.runtimeconfig.dev.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\bin\Debug\netcoreapp2.0\CatLady.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\bin\Debug\netcoreapp2.0\CatLady.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\obj\Debug\netcoreapp2.0\CatLady.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfoInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfo.cs
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\obj\Debug\netcoreapp2.0\CatLady.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\CatLady\obj\Debug\netcoreapp2.0\CatLady.pdb

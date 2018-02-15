@@ -9,3 +9,14 @@ C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifi
 C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.dll
 C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.pdb
 C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.csprojResolveAssemblyReference.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.deps.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.runtimeconfig.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.runtimeconfig.dev.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.csprojResolveAssemblyReference.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.AssemblyInfoInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.AssemblyInfo.cs
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.pdb

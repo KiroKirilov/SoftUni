@@ -9,3 +9,14 @@ C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.Assemb
 C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
 C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
 C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csprojResolveAssemblyReference.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb

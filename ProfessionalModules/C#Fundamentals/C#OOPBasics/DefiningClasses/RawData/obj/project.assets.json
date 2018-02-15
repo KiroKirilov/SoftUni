@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DefiningClasses\\RawData\\RawData.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\RawData\\RawData.csproj",
       "projectName": "RawData",
-      "projectPath": "C:\\Projects\\DefiningClasses\\RawData\\RawData.csproj",
+      "projectPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\RawData\\RawData.csproj",
       "packagesPath": "C:\\Users\\7h3ph\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DefiningClasses\\RawData\\obj\\",
+      "outputPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\RawData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

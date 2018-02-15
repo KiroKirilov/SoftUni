@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DefiningClasses\\RectangleIntersection\\RectangleIntersection.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\RectangleIntersection\\RectangleIntersection.csproj",
       "projectName": "RectangleIntersection",
-      "projectPath": "C:\\Projects\\DefiningClasses\\RectangleIntersection\\RectangleIntersection.csproj",
+      "projectPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\RectangleIntersection\\RectangleIntersection.csproj",
       "packagesPath": "C:\\Users\\7h3ph\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DefiningClasses\\RectangleIntersection\\obj\\",
+      "outputPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\RectangleIntersection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

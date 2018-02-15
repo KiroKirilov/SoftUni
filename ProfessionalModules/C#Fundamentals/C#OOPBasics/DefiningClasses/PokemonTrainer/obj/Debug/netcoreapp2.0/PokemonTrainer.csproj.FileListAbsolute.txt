@@ -9,3 +9,14 @@ C:\Projects\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTraine
 C:\Projects\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfo.cs
 C:\Projects\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.dll
 C:\Projects\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.deps.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.dev.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfo.cs
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.pdb

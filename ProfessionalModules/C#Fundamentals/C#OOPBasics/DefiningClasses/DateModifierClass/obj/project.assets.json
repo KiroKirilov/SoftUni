@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DefiningClasses\\DateModifierClass\\DateModifierClass.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\DateModifierClass\\DateModifierClass.csproj",
       "projectName": "DateModifierClass",
-      "projectPath": "C:\\Projects\\DefiningClasses\\DateModifierClass\\DateModifierClass.csproj",
+      "projectPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\DateModifierClass\\DateModifierClass.csproj",
       "packagesPath": "C:\\Users\\7h3ph\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DefiningClasses\\DateModifierClass\\obj\\",
+      "outputPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\DateModifierClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

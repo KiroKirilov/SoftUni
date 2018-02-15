@@ -9,3 +9,14 @@ C:\Projects\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.Asse
 C:\Projects\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfo.cs
 C:\Projects\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.dll
 C:\Projects\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.deps.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.runtimeconfig.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.runtimeconfig.dev.json
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.pdb
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.csprojResolveAssemblyReference.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfoInputs.cache
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfo.cs
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.dll
+C:\SoftUni\ProfessionalModules\C#Fundamentals\C#OOPBasics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.pdb

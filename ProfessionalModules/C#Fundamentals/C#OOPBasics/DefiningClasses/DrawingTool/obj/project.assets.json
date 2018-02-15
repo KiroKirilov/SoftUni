@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DefiningClasses\\DrawingTool\\DrawingTool.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\DrawingTool\\DrawingTool.csproj",
       "projectName": "DrawingTool",
-      "projectPath": "C:\\Projects\\DefiningClasses\\DrawingTool\\DrawingTool.csproj",
+      "projectPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\DrawingTool\\DrawingTool.csproj",
       "packagesPath": "C:\\Users\\7h3ph\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DefiningClasses\\DrawingTool\\obj\\",
+      "outputPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\DrawingTool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

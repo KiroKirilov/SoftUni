@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DefiningClasses\\CarSalesman\\CarSalesman.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\CarSalesman\\CarSalesman.csproj",
       "projectName": "CarSalesman",
-      "projectPath": "C:\\Projects\\DefiningClasses\\CarSalesman\\CarSalesman.csproj",
+      "projectPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\CarSalesman\\CarSalesman.csproj",
       "packagesPath": "C:\\Users\\7h3ph\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DefiningClasses\\CarSalesman\\obj\\",
+      "outputPath": "C:\\SoftUni\\ProfessionalModules\\C#Fundamentals\\C#OOPBasics\\DefiningClasses\\CarSalesman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
