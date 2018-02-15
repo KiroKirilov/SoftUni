@@ -1,0 +1,11 @@
+C:\Projects\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+C:\Projects\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+C:\Projects\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+C:\Projects\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Projects\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csprojResolveAssemblyReference.cache
+C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Projects\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb

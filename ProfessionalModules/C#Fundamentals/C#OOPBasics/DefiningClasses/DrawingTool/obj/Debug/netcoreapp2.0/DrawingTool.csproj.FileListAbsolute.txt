@@ -1,0 +1,10 @@
+C:\Projects\DefiningClasses\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.deps.json
+C:\Projects\DefiningClasses\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.runtimeconfig.json
+C:\Projects\DefiningClasses\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.runtimeconfig.dev.json
+C:\Projects\DefiningClasses\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.dll
+C:\Projects\DefiningClasses\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.pdb
+C:\Projects\DefiningClasses\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.csproj.CoreCompileInputs.cache
+C:\Projects\DefiningClasses\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.AssemblyInfoInputs.cache
+C:\Projects\DefiningClasses\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.AssemblyInfo.cs
+C:\Projects\DefiningClasses\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.dll
+C:\Projects\DefiningClasses\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.pdb

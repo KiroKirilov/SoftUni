@@ -1,0 +1,11 @@
+C:\Projects\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.deps.json
+C:\Projects\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.runtimeconfig.json
+C:\Projects\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.runtimeconfig.dev.json
+C:\Projects\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.dll
+C:\Projects\DefiningClasses\DateModifierClass\bin\Debug\netcoreapp2.0\DateModifierClass.pdb
+C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.csproj.CoreCompileInputs.cache
+C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.AssemblyInfoInputs.cache
+C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.AssemblyInfo.cs
+C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.dll
+C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.pdb
+C:\Projects\DefiningClasses\DateModifierClass\obj\Debug\netcoreapp2.0\DateModifierClass.csprojResolveAssemblyReference.cache

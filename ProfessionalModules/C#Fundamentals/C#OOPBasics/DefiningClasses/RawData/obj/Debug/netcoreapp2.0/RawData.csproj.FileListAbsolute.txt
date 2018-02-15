@@ -1,0 +1,11 @@
+C:\Projects\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.deps.json
+C:\Projects\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.json
+C:\Projects\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.dev.json
+C:\Projects\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.dll
+C:\Projects\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.pdb
+C:\Projects\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.csprojResolveAssemblyReference.cache
+C:\Projects\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.csproj.CoreCompileInputs.cache
+C:\Projects\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfoInputs.cache
+C:\Projects\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfo.cs
+C:\Projects\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.dll
+C:\Projects\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.pdb

@@ -1,0 +1,11 @@
+C:\Projects\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.csprojResolveAssemblyReference.cache
+C:\Projects\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.csproj.CoreCompileInputs.cache
+C:\Projects\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfoInputs.cache
+C:\Projects\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfo.cs
+C:\Projects\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.deps.json
+C:\Projects\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.json
+C:\Projects\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.dev.json
+C:\Projects\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.dll
+C:\Projects\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.pdb
+C:\Projects\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.dll
+C:\Projects\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.pdb
