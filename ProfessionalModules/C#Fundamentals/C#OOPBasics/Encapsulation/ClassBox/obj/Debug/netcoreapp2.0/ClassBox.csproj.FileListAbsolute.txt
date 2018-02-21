@@ -1,0 +1,11 @@
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.deps.json
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.json
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.dev.json
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.dll
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.pdb
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfoInputs.cache
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfo.cs
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.dll
+C:\Users\7h3ph\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.pdb
