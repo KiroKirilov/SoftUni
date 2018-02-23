@@ -1,0 +1,11 @@
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.deps.json
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.runtimeconfig.json
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.runtimeconfig.dev.json
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.dll
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.pdb
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.AssemblyInfoInputs.cache
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.AssemblyInfo.cs
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.dll
+C:\Users\7h3ph\source\repos\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.pdb

@@ -1,0 +1,11 @@
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\bin\Debug\netcoreapp2.0\BookShop.deps.json
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\bin\Debug\netcoreapp2.0\BookShop.dll
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\bin\Debug\netcoreapp2.0\BookShop.pdb
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\obj\Debug\netcoreapp2.0\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\obj\Debug\netcoreapp2.0\BookShop.dll
+C:\Users\7h3ph\source\repos\Inheritance\BookShop\obj\Debug\netcoreapp2.0\BookShop.pdb

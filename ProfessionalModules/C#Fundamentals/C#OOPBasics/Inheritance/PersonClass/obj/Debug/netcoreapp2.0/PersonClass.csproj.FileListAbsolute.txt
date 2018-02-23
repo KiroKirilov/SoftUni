@@ -1,0 +1,11 @@
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.deps.json
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.runtimeconfig.json
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.runtimeconfig.dev.json
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.dll
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.pdb
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfoInputs.cache
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfo.cs
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.dll
+C:\Users\7h3ph\source\repos\Inheritance\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.pdb
