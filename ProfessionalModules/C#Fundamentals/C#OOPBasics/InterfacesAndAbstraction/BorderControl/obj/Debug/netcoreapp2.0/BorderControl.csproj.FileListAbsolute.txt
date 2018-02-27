@@ -1,0 +1,11 @@
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.deps.json
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.json
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.dev.json
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.dll
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.pdb
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfo.cs
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.dll
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.pdb

@@ -1,0 +1,11 @@
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.deps.json
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.runtimeconfig.json
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.dll
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.pdb
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.dll
+C:\Users\7h3ph\source\repos\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.pdb
