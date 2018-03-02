@@ -57,6 +57,10 @@ public abstract class Vehicle
 
     protected Vehicle(double fuelQuantity, double fuelConsumption,double tankCapacity)
     {
+        if (fuelQuantity > tankCapacity)
+        {
+            fuelQuantity = 0;
+        }
         this.FuelConsumption = fuelConsumption;
         this.TankCapacity = tankCapacity;
         this.FuelQuantity = fuelQuantity;
