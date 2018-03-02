@@ -18,7 +18,7 @@ public class Bus : Vehicle
         {
             if (value > this.TankCapacity)
             {
-                throw new ArgumentException("Cannot fit fuel in tank");
+                base.FuelQuantity = 0;
             }
 
             base.FuelQuantity = value;

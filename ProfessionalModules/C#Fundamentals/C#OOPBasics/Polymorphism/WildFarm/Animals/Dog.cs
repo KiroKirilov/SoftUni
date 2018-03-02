@@ -3,27 +3,27 @@ using System.Collections.Generic;
 using System.Text;
 
 
-public class Cat : Felime
+public class Dog : Mammal
 {
-
-    public Cat(string name, string type, double weight, string livingRegion, string breed)
-        : base(name, type, weight, livingRegion,breed,0.30)
+    public Dog(string name, string type, double weight, string livingRegion)
+           : base(name, type, weight, livingRegion,0.40)
     {
     }
 
     public override void MakeSound()
     {
-        Console.WriteLine("Meow");
+        Console.WriteLine("Woof!");
     }
 
     public override void Eat(Food food)
     {
-        if ((food is Meat)||(food is Vegetable))
+        if (food is Meat)
         {
             this.FoodEaten += food.Quantity;
-            this.AnimalWeight += this.WeightIncrease*food.Quantity;
+            this.AnimalWeight += this.WeightIncrease * food.Quantity;
         }
         else
             Console.WriteLine($"{this.GetType()} does not eat {food.GetType()}!");
     }
 }
+

@@ -13,6 +13,8 @@ public abstract class Animal
 
     public int FoodEaten { get; set; }
 
+    public double WeightIncrease { get; set; }
+
     public virtual void MakeSound()
     {
         Console.WriteLine("Override me!");
@@ -23,12 +25,13 @@ public abstract class Animal
 
     }
 
-    public Animal(string name, string type, double weight)
+    public Animal(string name, string type, double weight, double weightIncr)
     {
         this.AnimalName = name;
         this.AnimalType = type;
         this.AnimalWeight = weight;
         this.FoodEaten = 0;
+        this.WeightIncrease = weightIncr;
     }
 }
 

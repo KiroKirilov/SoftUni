@@ -43,6 +43,15 @@ public abstract class Vehicle
 
     public virtual void Refuel(double liters)
     {
+        if (liters <= 0)
+        {
+            throw new ArgumentException("Fuel must be a positive number");
+        }
+        if (liters+this.FuelQuantity>this.TankCapacity)
+        {
+            //Cannot fit { fuel amount} fuel in the tank
+            throw new ArgumentException($"Cannot fit {liters} fuel in the tank");
+        }
         this.FuelQuantity += liters;
     }
 

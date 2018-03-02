@@ -7,15 +7,15 @@ public abstract class Mammal : Animal
 {
     public string LivingRegion { get; set; }
 
-    public Mammal(string name,string type,double weight, string livingRegion)
-        :base(name,type,weight)
+    public Mammal(string name,string type,double weight, string livingRegion, double weightIncr)
+        :base(name,type,weight,weightIncr)
     {
         this.LivingRegion = livingRegion;
     }
 
     public override string ToString()
     {
-        return $"{this.GetType().Name}[{this.AnimalName}, {this.AnimalWeight}, {this.LivingRegion}, {this.FoodEaten}]";
+        return $"{this.GetType()} [{this.AnimalName}, {this.AnimalWeight}, {this.LivingRegion}, {this.FoodEaten}]";
     }
 }
 

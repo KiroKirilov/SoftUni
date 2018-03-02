@@ -3,27 +3,27 @@ using System.Collections.Generic;
 using System.Text;
 
 
-public class Mouse : Mammal
+public class Owl : Bird
 {
-    public Mouse(string name, string type, double weight, string livingRegion)
-        : base(name, type, weight, livingRegion, 0.10)
+    public Owl(string name, string type, double weight, double wingsize)
+        : base(name, type, weight, wingsize, 0.25)
     {
-    }
-
-    public override void MakeSound()
-    {
-        Console.WriteLine("Squeak");
     }
 
     public override void Eat(Food food)
     {
-        if ((food is Vegetable)||(food is Fruit))
+        if (food is Meat)
         {
             this.FoodEaten += food.Quantity;
             this.AnimalWeight += this.WeightIncrease * food.Quantity;
         }
         else
             Console.WriteLine($"{this.GetType()} does not eat {food.GetType()}!");
+    }
+
+    public override void MakeSound()
+    {
+        Console.WriteLine("Hoot Hoot");
     }
 }
 

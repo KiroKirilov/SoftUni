@@ -5,8 +5,8 @@ using System.Text;
 
 public class Tiger : Felime
 {
-    public Tiger(string name, string type, double weight, string livingRegion)
-        : base(name, type, weight, livingRegion)
+    public Tiger(string name, string type, double weight, string livingRegion, string breed)
+        : base(name, type, weight, livingRegion, breed, 1.00)
     {
     }
 
@@ -15,14 +15,15 @@ public class Tiger : Felime
         if (food is Meat)
         {
             this.FoodEaten += food.Quantity;
+            this.AnimalWeight += this.WeightIncrease * food.Quantity;
         }
         else
-            Console.WriteLine("Tigers are not eating that type of food!");
+            Console.WriteLine($"{this.GetType()} does not eat {food.GetType()}!");
     }
 
     public override void MakeSound()
     {
-        Console.WriteLine("ROAAR!!!");
+        Console.WriteLine("ROAR!!!");
     }
 }
 

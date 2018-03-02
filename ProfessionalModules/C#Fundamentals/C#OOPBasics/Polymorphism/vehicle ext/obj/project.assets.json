@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\7h3ph\\source\\repos\\Polymorphism\\VehicleExtension\\VehiclesExtension.csproj",
-      "projectName": "VehiclesExtension",
-      "projectPath": "C:\\Users\\7h3ph\\source\\repos\\Polymorphism\\VehicleExtension\\VehiclesExtension.csproj",
+      "projectUniqueName": "C:\\Users\\7h3ph\\Desktop\\vehicle ext\\Vehicles.csproj",
+      "projectName": "Vehicles",
+      "projectPath": "C:\\Users\\7h3ph\\Desktop\\vehicle ext\\Vehicles.csproj",
       "packagesPath": "C:\\Users\\7h3ph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\7h3ph\\source\\repos\\Polymorphism\\VehicleExtension\\obj\\",
+      "outputPath": "C:\\Users\\7h3ph\\Desktop\\vehicle ext\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
