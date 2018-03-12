@@ -1,0 +1,7 @@
+C:\Projects\Avatar\Avatar\bin\Debug\Avatar.exe.config
+C:\Projects\Avatar\Avatar\bin\Debug\Avatar.exe
+C:\Projects\Avatar\Avatar\bin\Debug\Avatar.pdb
+C:\Projects\Avatar\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Projects\Avatar\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Projects\Avatar\Avatar\obj\Debug\Avatar.exe
+C:\Projects\Avatar\Avatar\obj\Debug\Avatar.pdb
