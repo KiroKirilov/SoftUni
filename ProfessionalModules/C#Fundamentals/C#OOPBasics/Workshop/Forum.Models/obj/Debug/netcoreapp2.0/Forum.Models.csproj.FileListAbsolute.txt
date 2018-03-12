@@ -1,0 +1,9 @@
+C:\Users\7h3ph\Desktop\13_Workshop\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.deps.json
+C:\Users\7h3ph\Desktop\13_Workshop\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\7h3ph\Desktop\13_Workshop\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Users\7h3ph\Desktop\13_Workshop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\Desktop\13_Workshop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\Desktop\13_Workshop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfoInputs.cache
+C:\Users\7h3ph\Desktop\13_Workshop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfo.cs
+C:\Users\7h3ph\Desktop\13_Workshop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\7h3ph\Desktop\13_Workshop\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.pdb
