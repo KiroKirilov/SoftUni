@@ -1,0 +1,11 @@
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\bin\Debug\netcoreapp2.0\MinedraftExamPrep.deps.json
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\bin\Debug\netcoreapp2.0\MinedraftExamPrep.runtimeconfig.json
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\bin\Debug\netcoreapp2.0\MinedraftExamPrep.runtimeconfig.dev.json
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\bin\Debug\netcoreapp2.0\MinedraftExamPrep.dll
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\bin\Debug\netcoreapp2.0\MinedraftExamPrep.pdb
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\obj\Debug\netcoreapp2.0\MinedraftExamPrep.csprojResolveAssemblyReference.cache
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\obj\Debug\netcoreapp2.0\MinedraftExamPrep.csproj.CoreCompileInputs.cache
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\obj\Debug\netcoreapp2.0\MinedraftExamPrep.AssemblyInfoInputs.cache
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\obj\Debug\netcoreapp2.0\MinedraftExamPrep.AssemblyInfo.cs
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\obj\Debug\netcoreapp2.0\MinedraftExamPrep.dll
+C:\Projects\MinedraftExamPrep\MinedraftExamPrep\obj\Debug\netcoreapp2.0\MinedraftExamPrep.pdb
