@@ -14,9 +14,9 @@ namespace DungeonsAndCodeWizards.Models.Bags
 
         private List<Item> items;
 
-        public List<Item> Items
+        public IReadOnlyCollection<Item> Items
         {
-            get { return items; }
+            get { return items as IReadOnlyCollection<Item>; }
         }
 
         public int Capacity { get; private set; }
