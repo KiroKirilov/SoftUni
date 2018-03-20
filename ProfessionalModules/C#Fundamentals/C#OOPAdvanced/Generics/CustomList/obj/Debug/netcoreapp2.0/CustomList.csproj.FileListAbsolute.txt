@@ -1,0 +1,11 @@
+C:\Projects\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.deps.json
+C:\Projects\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.runtimeconfig.json
+C:\Projects\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.runtimeconfig.dev.json
+C:\Projects\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.dll
+C:\Projects\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.pdb
+C:\Projects\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.csprojResolveAssemblyReference.cache
+C:\Projects\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.csproj.CoreCompileInputs.cache
+C:\Projects\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.AssemblyInfoInputs.cache
+C:\Projects\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.AssemblyInfo.cs
+C:\Projects\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.dll
+C:\Projects\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.pdb
