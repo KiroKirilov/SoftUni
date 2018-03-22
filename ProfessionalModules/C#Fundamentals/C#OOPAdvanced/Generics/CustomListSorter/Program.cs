@@ -55,6 +55,10 @@ class Program
                     Console.WriteLine(list.ToString());
                     break;
 
+                case "Sort":
+                    Sorter.Sort(list);
+                    break;
+
                 default:
                     break;
             }

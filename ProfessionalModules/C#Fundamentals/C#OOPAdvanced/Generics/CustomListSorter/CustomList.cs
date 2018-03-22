@@ -53,6 +53,11 @@ public class CustomList<T>
         return this.items.Min();
     }
 
+    public void Sort()
+    {
+        this.items = this.items.OrderBy(i => i).ToList();
+    }
+
     public override string ToString()
     {
         return string.Join(Environment.NewLine, this.items);
