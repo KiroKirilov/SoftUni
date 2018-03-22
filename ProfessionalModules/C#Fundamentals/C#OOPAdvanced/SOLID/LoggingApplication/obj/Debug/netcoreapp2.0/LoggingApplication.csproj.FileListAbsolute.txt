@@ -1,0 +1,11 @@
+C:\Projects\SOLID\LoggingApplication\bin\Debug\netcoreapp2.0\LoggingApplication.deps.json
+C:\Projects\SOLID\LoggingApplication\bin\Debug\netcoreapp2.0\LoggingApplication.runtimeconfig.json
+C:\Projects\SOLID\LoggingApplication\bin\Debug\netcoreapp2.0\LoggingApplication.runtimeconfig.dev.json
+C:\Projects\SOLID\LoggingApplication\bin\Debug\netcoreapp2.0\LoggingApplication.dll
+C:\Projects\SOLID\LoggingApplication\bin\Debug\netcoreapp2.0\LoggingApplication.pdb
+C:\Projects\SOLID\LoggingApplication\obj\Debug\netcoreapp2.0\LoggingApplication.csprojResolveAssemblyReference.cache
+C:\Projects\SOLID\LoggingApplication\obj\Debug\netcoreapp2.0\LoggingApplication.csproj.CoreCompileInputs.cache
+C:\Projects\SOLID\LoggingApplication\obj\Debug\netcoreapp2.0\LoggingApplication.AssemblyInfoInputs.cache
+C:\Projects\SOLID\LoggingApplication\obj\Debug\netcoreapp2.0\LoggingApplication.AssemblyInfo.cs
+C:\Projects\SOLID\LoggingApplication\obj\Debug\netcoreapp2.0\LoggingApplication.dll
+C:\Projects\SOLID\LoggingApplication\obj\Debug\netcoreapp2.0\LoggingApplication.pdb
