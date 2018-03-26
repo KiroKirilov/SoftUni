@@ -1,0 +1,11 @@
+C:\Projects\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.deps.json
+C:\Projects\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.runtimeconfig.json
+C:\Projects\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.runtimeconfig.dev.json
+C:\Projects\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.dll
+C:\Projects\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.pdb
+C:\Projects\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.csprojResolveAssemblyReference.cache
+C:\Projects\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.csproj.CoreCompileInputs.cache
+C:\Projects\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.AssemblyInfoInputs.cache
+C:\Projects\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.AssemblyInfo.cs
+C:\Projects\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.dll
+C:\Projects\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.pdb

@@ -1,0 +1,11 @@
+C:\Projects\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.deps.json
+C:\Projects\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.runtimeconfig.json
+C:\Projects\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.runtimeconfig.dev.json
+C:\Projects\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.dll
+C:\Projects\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.pdb
+C:\Projects\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.csprojResolveAssemblyReference.cache
+C:\Projects\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.csproj.CoreCompileInputs.cache
+C:\Projects\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.AssemblyInfoInputs.cache
+C:\Projects\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.AssemblyInfo.cs
+C:\Projects\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.dll
+C:\Projects\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.pdb

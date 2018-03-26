@@ -1,0 +1,11 @@
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\bin\Debug\netcoreapp2.0\LinkedListTraversal.deps.json
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\bin\Debug\netcoreapp2.0\LinkedListTraversal.runtimeconfig.json
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\bin\Debug\netcoreapp2.0\LinkedListTraversal.runtimeconfig.dev.json
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\bin\Debug\netcoreapp2.0\LinkedListTraversal.dll
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\bin\Debug\netcoreapp2.0\LinkedListTraversal.pdb
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\obj\Debug\netcoreapp2.0\LinkedListTraversal.csprojResolveAssemblyReference.cache
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\obj\Debug\netcoreapp2.0\LinkedListTraversal.csproj.CoreCompileInputs.cache
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\obj\Debug\netcoreapp2.0\LinkedListTraversal.AssemblyInfoInputs.cache
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\obj\Debug\netcoreapp2.0\LinkedListTraversal.AssemblyInfo.cs
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\obj\Debug\netcoreapp2.0\LinkedListTraversal.dll
+C:\Projects\IteratorsAndComparators\LinkedListTraversal\obj\Debug\netcoreapp2.0\LinkedListTraversal.pdb

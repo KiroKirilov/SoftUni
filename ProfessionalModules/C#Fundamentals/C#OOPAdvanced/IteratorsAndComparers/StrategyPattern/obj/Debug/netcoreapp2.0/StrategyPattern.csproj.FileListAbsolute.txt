@@ -1,0 +1,11 @@
+C:\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.deps.json
+C:\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.json
+C:\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.dev.json
+C:\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Projects\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.pdb
+C:\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfo.cs
+C:\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Projects\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.pdb
