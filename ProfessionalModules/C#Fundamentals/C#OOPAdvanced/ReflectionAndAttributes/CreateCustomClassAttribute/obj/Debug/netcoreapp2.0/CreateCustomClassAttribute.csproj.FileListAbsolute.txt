@@ -1,0 +1,11 @@
+C:\Projects\Reflection\CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\CreateCustomClassAttribute.csprojResolveAssemblyReference.cache
+C:\Projects\Reflection\CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\CreateCustomClassAttribute.csproj.CoreCompileInputs.cache
+C:\Projects\Reflection\CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\CreateCustomClassAttribute.AssemblyInfoInputs.cache
+C:\Projects\Reflection\CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\CreateCustomClassAttribute.AssemblyInfo.cs
+C:\Projects\Reflection\CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\CreateCustomClassAttribute.deps.json
+C:\Projects\Reflection\CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\CreateCustomClassAttribute.runtimeconfig.json
+C:\Projects\Reflection\CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\CreateCustomClassAttribute.runtimeconfig.dev.json
+C:\Projects\Reflection\CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\CreateCustomClassAttribute.dll
+C:\Projects\Reflection\CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\CreateCustomClassAttribute.pdb
+C:\Projects\Reflection\CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\CreateCustomClassAttribute.dll
+C:\Projects\Reflection\CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\CreateCustomClassAttribute.pdb

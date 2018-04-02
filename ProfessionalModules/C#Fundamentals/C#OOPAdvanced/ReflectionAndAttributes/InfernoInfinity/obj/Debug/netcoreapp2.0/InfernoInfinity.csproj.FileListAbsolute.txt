@@ -1,0 +1,11 @@
+C:\Projects\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.deps.json
+C:\Projects\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.runtimeconfig.json
+C:\Projects\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.runtimeconfig.dev.json
+C:\Projects\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.dll
+C:\Projects\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.pdb
+C:\Projects\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.csprojResolveAssemblyReference.cache
+C:\Projects\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.csproj.CoreCompileInputs.cache
+C:\Projects\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.AssemblyInfoInputs.cache
+C:\Projects\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.AssemblyInfo.cs
+C:\Projects\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.dll
+C:\Projects\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.pdb

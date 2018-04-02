@@ -1,0 +1,11 @@
+C:\Projects\Reflection\BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.deps.json
+C:\Projects\Reflection\BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.runtimeconfig.json
+C:\Projects\Reflection\BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.runtimeconfig.dev.json
+C:\Projects\Reflection\BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.dll
+C:\Projects\Reflection\BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.pdb
+C:\Projects\Reflection\BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.csprojResolveAssemblyReference.cache
+C:\Projects\Reflection\BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.csproj.CoreCompileInputs.cache
+C:\Projects\Reflection\BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.AssemblyInfoInputs.cache
+C:\Projects\Reflection\BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.AssemblyInfo.cs
+C:\Projects\Reflection\BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.dll
+C:\Projects\Reflection\BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.pdb

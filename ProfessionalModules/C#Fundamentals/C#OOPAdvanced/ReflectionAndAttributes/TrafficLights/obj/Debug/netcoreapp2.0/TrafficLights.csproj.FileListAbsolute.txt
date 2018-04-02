@@ -1,0 +1,11 @@
+C:\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.deps.json
+C:\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.runtimeconfig.json
+C:\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.runtimeconfig.dev.json
+C:\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.dll
+C:\Projects\Reflection\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.pdb
+C:\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.AssemblyInfoInputs.cache
+C:\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.AssemblyInfo.cs
+C:\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.dll
+C:\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.pdb
+C:\Projects\Reflection\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.csprojResolveAssemblyReference.cache
