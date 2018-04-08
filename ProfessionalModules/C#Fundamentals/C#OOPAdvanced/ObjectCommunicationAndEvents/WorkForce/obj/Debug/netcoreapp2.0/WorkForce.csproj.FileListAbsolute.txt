@@ -1,0 +1,11 @@
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.deps.json
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.runtimeconfig.json
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.runtimeconfig.dev.json
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.dll
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.pdb
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.csprojResolveAssemblyReference.cache
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.csproj.CoreCompileInputs.cache
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.AssemblyInfoInputs.cache
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.AssemblyInfo.cs
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.dll
+C:\Projects\ObjectCommunicationAndEvents\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.pdb

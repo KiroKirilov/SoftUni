@@ -1,0 +1,11 @@
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.deps.json
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.runtimeconfig.json
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.runtimeconfig.dev.json
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.dll
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.pdb
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.csprojResolveAssemblyReference.cache
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.csproj.CoreCompileInputs.cache
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.AssemblyInfoInputs.cache
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.AssemblyInfo.cs
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.dll
+C:\Projects\ObjectCommunicationAndEvents\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.pdb

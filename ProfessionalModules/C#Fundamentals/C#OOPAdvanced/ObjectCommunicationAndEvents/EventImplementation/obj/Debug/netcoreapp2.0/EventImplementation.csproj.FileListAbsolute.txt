@@ -1,0 +1,11 @@
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.deps.json
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.runtimeconfig.json
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.runtimeconfig.dev.json
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.dll
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.pdb
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.csprojResolveAssemblyReference.cache
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.csproj.CoreCompileInputs.cache
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.AssemblyInfoInputs.cache
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.AssemblyInfo.cs
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.dll
+C:\Projects\ObjectCommunicationAndEvents\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.pdb
