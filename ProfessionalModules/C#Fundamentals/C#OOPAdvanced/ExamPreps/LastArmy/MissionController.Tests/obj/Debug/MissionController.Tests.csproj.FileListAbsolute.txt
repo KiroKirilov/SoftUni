@@ -1,0 +1,8 @@
+C:\Users\7h3ph\Desktop\LastArmy\MissionController.Tests\bin\Debug\MissionController.Tests.dll
+C:\Users\7h3ph\Desktop\LastArmy\MissionController.Tests\bin\Debug\MissionController.Tests.pdb
+C:\Users\7h3ph\Desktop\LastArmy\MissionController.Tests\bin\Debug\nunit.framework.dll
+C:\Users\7h3ph\Desktop\LastArmy\MissionController.Tests\bin\Debug\nunit.framework.xml
+C:\Users\7h3ph\Desktop\LastArmy\MissionController.Tests\obj\Debug\MissionController.Tests.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\Desktop\LastArmy\MissionController.Tests\obj\Debug\MissionController.Tests.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\Desktop\LastArmy\MissionController.Tests\obj\Debug\MissionController.Tests.dll
+C:\Users\7h3ph\Desktop\LastArmy\MissionController.Tests\obj\Debug\MissionController.Tests.pdb
