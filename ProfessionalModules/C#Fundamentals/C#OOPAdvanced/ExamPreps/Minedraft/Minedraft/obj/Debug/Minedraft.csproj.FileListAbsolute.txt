@@ -1,0 +1,7 @@
+C:\Users\7h3ph\Desktop\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.exe.config
+C:\Users\7h3ph\Desktop\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.exe
+C:\Users\7h3ph\Desktop\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.pdb
+C:\Users\7h3ph\Desktop\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\Desktop\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\Desktop\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.exe
+C:\Users\7h3ph\Desktop\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.pdb
