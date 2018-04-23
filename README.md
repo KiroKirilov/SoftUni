@@ -27,6 +27,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Objects and classes](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals/ObjectsAndClasses)
       - [Strings and text processing](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals/StringsAndTextProcessing)
       - [Regular expressions](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals/RegularExpressions)
+      - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals/Exam(05.11.2017))
       
      - **[Software technologies](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/SoftwareTechnologies)**
         - [Basic syntax](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/SoftwareTechnologies/BasicSyntax)
