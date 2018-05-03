@@ -65,3 +65,5 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Workshop](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/Workshop)
       - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/ExamPreps)
       - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/Exam(Festival))
+  - [C# Fundamentals](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals)
+    
