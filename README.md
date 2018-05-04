@@ -37,7 +37,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
         - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/SoftwareTechnologies/Exam/Log%20Noziroh)
         
 - ## [Professional Modules](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules)
-  - [C# Fundamentals](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals)
+  - [**C# Fundamentals**](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals)
     - [C# Advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23)
       - [Stacks and queues](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23/StacksAndQueues)
       - [Multidimensional arrays](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23/MultidimensionalArrays)
@@ -65,5 +65,9 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Workshop](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/Workshop)
       - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/ExamPreps)
       - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/Exam(Festival))
-  - [C# Fundamentals](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals)
+      
+  - [**C# DB Fundamentals**](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals)
+     - [Databases basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics)
+       - [Data definition and data types](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/DataDefinitionAndDataTypes)
+       - [Basic CRUD](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/BasicCRUD)
     
