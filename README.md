@@ -71,3 +71,4 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [Data definition and data types](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/DataDefinitionAndDataTypes)
        - [Basic CRUD](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/BasicCRUD/BasicCRUD)
        - [Built-in Functions](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/Built-InFuntions/BuiltInFuntions)
+       - [Data aggregation](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/DataAggregation/DataAggregation)
