@@ -75,3 +75,4 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [Data aggregation](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/DataAggregation/DataAggregation)
        - [Table relations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/TableRelations/TableRelations)
        - [JOINs, subqueries, CTE and indices](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/JoinsSubqueriesCTEandIndices/JoinsSubqueriesCTEandIndices)
+       - [Database programability, triggers and transactions](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/DatabaseProgrammabilityAndTransactions/DatabaseProgrammabilityAndTransactions)
