@@ -35,20 +35,19 @@ WHERE conts.ContinentCode='AF'
 ORDER BY c.CountryName
 
 --Problem 15 - Continents and Currencies
-WITH CCYContUsage_CTE (ContinentCode, CurrencyCode, CurrencyUsage) AS (
-  SELECT ContinentCode, CurrencyCode, COUNT(CountryCode) AS CurrencyUsage
-  FROM Countries 
-  GROUP BY ContinentCode, CurrencyCode
-  HAVING COUNT(CountryCode) > 1  
-)
-SELECT ContMax.ContinentCode, ccy.CurrencyCode, ContMax.TopCCYUsage
+SELECT OrderedCurrencies.ContinentCode,OrderedCurrencies.CurrencyCode,
+OrderedCurrencies.CurrencyUsage
 FROM
-  (SELECT ContinentCode, MAX(CurrencyUsage) AS TopCCYUsage
-   FROM CCYContUsage_CTE 
-   GROUP BY ContinentCode) AS ContMax
-JOIN CCYContUsage_CTE AS ccy 
-ON (ContMax.ContinentCode = ccy.ContinentCode AND ContMax.TopCCYUsage = ccy.CurrencyUsage)
-ORDER BY ContMax.ContinentCode
+(SELECT c.CurrencyCode,
+	   c.ContinentCode,
+       COUNT(c.CountryName) AS CurrencyUsage,
+	   DENSE_RANK() OVER (PARTITION BY ContinentCode
+	                      ORDER BY COUNT(CurrencyCode) DESC
+) AS [UsageRank]
+FROM Countries c
+GROUP BY c.CurrencyCode, c.ContinentCode
+HAVING COUNT(c.CountryName)>1) AS OrderedCurrencies
+WHERE OrderedCurrencies.UsageRank=1
 
 --Problem 16 - Countries without any Mountains
 SELECT COUNT(c.CountryCode) AS CountryCode
