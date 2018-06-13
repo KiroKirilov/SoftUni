@@ -75,23 +75,37 @@ ON r.Id=cr.RiverId
 GROUP BY c.CountryName
 ORDER BY HighestPeakElevation DESC, LongestRiverLength DESC, c.CountryName
 
---Problem 18 - * Highest Peak Name and Elevation by Country
-WITH PeaksMountains_CTE (Country, PeakName, Elevation, Mountain) AS (
-  SELECT c.CountryName, p.PeakName, p.Elevation, m.MountainRange
-  FROM Countries AS c
-  LEFT JOIN MountainsCountries as mc ON c.CountryCode = mc.CountryCode
-  LEFT JOIN Mountains AS m ON mc.MountainId = m.Id
-  LEFT JOIN Peaks AS p ON p.MountainId = m.Id
+--Problem 18 - Highest Peak Name and Elevation by Country
+WITH CTE_PeakInfo (CountryName, PeakName, Elevation, MountainRange)
+AS
+(
+	SELECT c.CountryName,
+		   p.PeakName,
+		   MAX(p.Elevation),
+		   m.MountainRange
+	FROM Countries c
+	LEFT JOIN MountainsCountries mc
+	ON mc.CountryCode=c.CountryCode
+	LEFT JOIN Mountains m
+	ON m.Id=mc.MountainId
+	LEFT JOIN Peaks p
+	ON p.MountainId=m.Id
+	GROUP BY c.CountryName, p.PeakName, m.MountainRange
 )
+
 SELECT TOP 5
-  TopElevations.Country AS Country,
-  ISNULL(pm.PeakName, '(no highest peak)') AS HighestPeakName,
-  ISNULL(TopElevations.HighestElevation, 0) AS HighestPeakElevation,	
-  ISNULL(pm.Mountain, '(no mountain)') AS Mountain
-FROM 
-  (SELECT Country, MAX(Elevation) AS HighestElevation
-   FROM PeaksMountains_CTE 
-   GROUP BY Country) AS TopElevations
-LEFT JOIN PeaksMountains_CTE AS pm 
-ON (TopElevations.Country = pm.Country AND TopElevations.HighestElevation = pm.Elevation)
-ORDER BY Country, HighestPeakName
+       e.CountryName AS [Country],
+       ISNULL(PeakName,'(no highest peak)') AS [Highest Peak Name],
+	   ISNULL(Elevation,0) AS [Highest Peak Elevation],
+	   ISNULL(MountainRange,'(no mountain)') AS [Mountain]
+FROM
+(
+	SELECT CountryName,
+		   MAX(Elevation) AS HighestElevation
+	FROM CTE_PeakInfo
+	GROUP BY CountryName
+) AS e
+LEFT JOIN CTE_PeakInfo cpi
+ON cpi.CountryName=e.CountryName
+AND cpi.Elevation=e.HighestElevation
+ORDER BY e.CountryName,cpi.PeakName
