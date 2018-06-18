@@ -77,3 +77,4 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [JOINs, subqueries, CTE and indices](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/JoinsSubqueriesCTEandIndices/JoinsSubqueriesCTEandIndices)
        - [Database programability, triggers and transactions](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/DatabaseProgrammabilityAndTransactions/DatabaseProgrammabilityAndTransactions)
        - [Additional exercises](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/AdditionalExercises/AdditionalExercises)
+       - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/ExamPreps)
