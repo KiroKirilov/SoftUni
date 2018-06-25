@@ -10,6 +10,3 @@ BEGIN
 	AND Id IN (SELECT Id
 				 FROM deleted)
 END
-
-DELETE FROM Trips
-WHERE Id IN (48, 49, 50)
