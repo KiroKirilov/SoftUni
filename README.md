@@ -78,3 +78,4 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [Database programability, triggers and transactions](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/DatabaseProgrammabilityAndTransactions/DatabaseProgrammabilityAndTransactions)
        - [Additional exercises](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/AdditionalExercises/AdditionalExercises)
        - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/ExamPreps)
+       - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/Exam(TripService))
