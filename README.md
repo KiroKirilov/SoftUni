@@ -81,3 +81,4 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/Exam(TripService))
      - [Databases advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced)
        - [Introduction to DB apps](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/IntroductionToDBApps)
+       - [ORM fundamentals](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/ORMFundamentals)
