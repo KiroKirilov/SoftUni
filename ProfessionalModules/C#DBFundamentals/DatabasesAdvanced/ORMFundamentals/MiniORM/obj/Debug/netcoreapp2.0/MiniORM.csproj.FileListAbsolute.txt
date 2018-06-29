@@ -1,0 +1,9 @@
+C:\Projects\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojResolveAssemblyReference.cache
+C:\Projects\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Projects\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Projects\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Projects\ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Projects\ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Projects\ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Projects\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Projects\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
