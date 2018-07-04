@@ -5,7 +5,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
 
 # Table Of Contents:
 
-- ## [Programming Basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProgrammingBasics)
+- ## [Programming Basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProgrammingBasics) - [Certificate](https://softuni.bg/certificates/details/21979/fe638fbd)
   - [First steps in coding](https://github.com/KiroKirilov/SoftUni/tree/master/ProgrammingBasics/FirstStepsInCoding)
   - [Simple calculations](https://github.com/KiroKirilov/SoftUni/tree/master/ProgrammingBasics/SimpleCalculations)
   - [Simple conditional statements](https://github.com/KiroKirilov/SoftUni/tree/master/ProgrammingBasics/SimpleConditionalStatements)
@@ -16,7 +16,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
   - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProgrammingBasics/Exam)
   
  - ## [Tech Module](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule)
-    - **[Programming fundamentals](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals)**
+    - **[Programming fundamentals](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals)** - [Certificate](https://softuni.bg/certificates/details/24176/7bd492d6)
       - [Intro and basic syntax](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals/IntroAndBasicSyntax)
       - [Data types and variables](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals/DataTypesAndVariables)
       - [Conditional statements and loops](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals/ConditionalStatementsAndLoops)
@@ -29,7 +29,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Regular expressions](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals/RegularExpressions)
       - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/ProgrammingFundamentals/Exam(05.11.2017))
       
-     - **[Software technologies](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/SoftwareTechnologies)**
+     - **[Software technologies](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/SoftwareTechnologies)** - [Certificate](https://softuni.bg/certificates/details/50654/b5beff70)
         - [Basic syntax](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/SoftwareTechnologies/BasicSyntax)          
         - [Basic web MVC](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/SoftwareTechnologies/BasicWebMVC)      
         - [Basic blog](https://github.com/KiroKirilov/SoftUni/tree/master/TechModule/SoftwareTechnologies/BasicBlog)          
@@ -38,14 +38,14 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
         
 - ## [Professional Modules](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules)
   - [**C# Fundamentals**](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals)
-    - [C# Advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23)
+    - [C# Advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23) - [Certificate](https://softuni.bg/certificates/details/51450/9ed02b51)
       - [Stacks and queues](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23/StacksAndQueues)
       - [Multidimensional arrays](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23/MultidimensionalArrays)
       - [Streams](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23/Streams)
       - [Funtional programming](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23/FunctionalProgramming)
       - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23/Exam%20Preps)
       - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/AdvancedC%23/Exam(11.02.2018))
-    - [C# OOP Basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics)
+    - [C# OOP Basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics) - [Certificate](https://softuni.bg/certificates/details/52556/16224c35)
       - [Defining classes](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics/DefiningClasses)
       - [Working with abstraction](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics/WorkingWithAbstraction)
       - [Encapsulation](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics/Encapsulation)
@@ -55,7 +55,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Workshop](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics/Workshop)
       - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics/ExamPreps)
       - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics/Exam(DungeonsAndCodeWizards))
-    - [C# OOP Advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced)
+    - [C# OOP Advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced) - [Certificate](https://softuni.bg/users/profile/certificates?username=KiroKirilov)
       - [SOLID](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/SOLID)
       - [Generics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/Generics)
       - [Iterators and comparators](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/IteratorsAndComparers)
@@ -67,7 +67,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/Exam(Festival))
       
   - [**C# DB Fundamentals**](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals)
-     - [Databases basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics)
+     - [Databases basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics) - [Certificate](https://softuni.bg/users/profile/certificates?username=KiroKirilov)
        - [Databases used](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/Databases)
        - [Data definition and data types](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/DataDefinitionAndDataTypes)
        - [Basic CRUD](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/BasicCRUD/BasicCRUD)
