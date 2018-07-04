@@ -55,7 +55,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Workshop](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics/Workshop)
       - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics/ExamPreps)
       - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPBasics/Exam(DungeonsAndCodeWizards))
-    - [C# OOP Advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced) - [Certificate](https://softuni.bg/users/profile/certificates?username=KiroKirilov)
+    - [C# OOP Advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced) - [Certificate](https://softuni.bg/certificates/details/53361/484ca85c)
       - [SOLID](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/SOLID)
       - [Generics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/Generics)
       - [Iterators and comparators](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/IteratorsAndComparers)
@@ -67,7 +67,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Fundamentals/C%23OOPAdvanced/Exam(Festival))
       
   - [**C# DB Fundamentals**](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals)
-     - [Databases basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics) - [Certificate](https://softuni.bg/users/profile/certificates?username=KiroKirilov)
+     - [Databases basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics) - [Certificate](https://softuni.bg/certificates/details/55518/d79cdd70)
        - [Databases used](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/Databases)
        - [Data definition and data types](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/DataDefinitionAndDataTypes)
        - [Basic CRUD](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/BasicCRUD/BasicCRUD)
