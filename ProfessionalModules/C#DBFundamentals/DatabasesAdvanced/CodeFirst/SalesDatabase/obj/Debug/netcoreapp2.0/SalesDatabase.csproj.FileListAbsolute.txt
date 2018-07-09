@@ -1,0 +1,11 @@
+C:\Projects\CodeFirst\SalesDatabase\bin\Debug\netcoreapp2.0\SalesDatabase.deps.json
+C:\Projects\CodeFirst\SalesDatabase\bin\Debug\netcoreapp2.0\SalesDatabase.runtimeconfig.json
+C:\Projects\CodeFirst\SalesDatabase\bin\Debug\netcoreapp2.0\SalesDatabase.runtimeconfig.dev.json
+C:\Projects\CodeFirst\SalesDatabase\bin\Debug\netcoreapp2.0\SalesDatabase.dll
+C:\Projects\CodeFirst\SalesDatabase\obj\Debug\netcoreapp2.0\SalesDatabase.csprojResolveAssemblyReference.cache
+C:\Projects\CodeFirst\SalesDatabase\obj\Debug\netcoreapp2.0\SalesDatabase.csproj.CoreCompileInputs.cache
+C:\Projects\CodeFirst\SalesDatabase\obj\Debug\netcoreapp2.0\SalesDatabase.AssemblyInfoInputs.cache
+C:\Projects\CodeFirst\SalesDatabase\obj\Debug\netcoreapp2.0\SalesDatabase.AssemblyInfo.cs
+C:\Projects\CodeFirst\SalesDatabase\bin\Debug\netcoreapp2.0\SalesDatabase.pdb
+C:\Projects\CodeFirst\SalesDatabase\obj\Debug\netcoreapp2.0\SalesDatabase.dll
+C:\Projects\CodeFirst\SalesDatabase\obj\Debug\netcoreapp2.0\SalesDatabase.pdb
