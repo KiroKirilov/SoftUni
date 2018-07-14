@@ -84,3 +84,4 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [ORM fundamentals](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/ORMFundamentals)
        - [Introduction to Enitity Framework](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/IntroductionToEntityFramework)
        - [Code first](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/CodeFirst)
+       - [Entity relations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/EntityRelations)
