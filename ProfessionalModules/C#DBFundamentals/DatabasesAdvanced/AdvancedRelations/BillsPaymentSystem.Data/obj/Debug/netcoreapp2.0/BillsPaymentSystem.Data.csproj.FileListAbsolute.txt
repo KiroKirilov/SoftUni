@@ -1,0 +1,11 @@
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.deps.json
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.dll
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.csprojResolveAssemblyReference.cache
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.AssemblyInfo.cs
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.pdb
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.Models.dll
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.Models.pdb
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.dll
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Data.pdb

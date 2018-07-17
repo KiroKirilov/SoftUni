@@ -1,0 +1,13 @@
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Seeder.deps.json
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Seeder.dll
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Seeder.pdb
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.dll
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.Models.dll
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.Models.pdb
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.pdb
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Seeder.csprojResolveAssemblyReference.cache
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Seeder.csproj.CoreCompileInputs.cache
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Seeder.AssemblyInfoInputs.cache
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Seeder.AssemblyInfo.cs
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Seeder.dll
+C:\Projects\AdvancedRelations\BillsPaymentSystem.Seeder\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Seeder.pdb
