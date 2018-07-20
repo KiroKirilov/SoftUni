@@ -86,3 +86,4 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [Code first](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/CodeFirst)
        - [Entity relations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/EntityRelations)
        - [Advanced relations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/AdvancedRelations)
+       - [Advanced querying](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/AdvancedQuerying)
