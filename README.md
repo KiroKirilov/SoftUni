@@ -88,3 +88,4 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [Advanced relations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/AdvancedRelations)
        - [Advanced querying](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/AdvancedQuerying)
        - [Automapping objects](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/AutoMappingObjects)
+       - [Best practices and architecture](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/BestPracticesAndArchitecture)
