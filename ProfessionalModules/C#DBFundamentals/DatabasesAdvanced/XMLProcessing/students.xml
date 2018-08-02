@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<name>Ivan Ivanov</name>
+		<gender>male</gender>
+		<birthDate>1999/01/01</birthDate>
+		<phoneNumber>1234567890</phoneNumber>
+		<email>ivan@ivan.ivan</email>
+		<university>SoftUni</university>
+		<specialty>C# Dev</specialty>
+		<facultyNumber>123432432</facultyNumber>
+		<exams>
+			<exam>
+				<name>C# Db Advanced</name>
+				<dateTaken>2018/08/01</dateTaken>
+				<grade>6.00</grade>
+			</exam>
+		</exams>
+	</student>
+</students>

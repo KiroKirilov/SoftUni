@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="utf-16"?>
+<sales>
+  <sale>
+    <customer-name>Cinthia Lasala</customer-name>
+    <discount>0.1500000</discount>
+    <price>1002.50</price>
+    <price-with-discount>852.125000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Cinthia Lasala</customer-name>
+    <discount>0.2000000</discount>
+    <price>10029.90</price>
+    <price-with-discount>8023.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Yvonne Mccalla</customer-name>
+    <discount>0.0500000</discount>
+    <price>1209.90</price>
+    <price-with-discount>1149.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hai Everton</customer-name>
+    <discount>0.0000000</discount>
+    <price>3139.90</price>
+    <price-with-discount>3139.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Lino Subia</customer-name>
+    <discount>0.2000000</discount>
+    <price>1009.90</price>
+    <price-with-discount>807.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Johnette Derryberry</customer-name>
+    <discount>0.1500000</discount>
+    <price>1209.90</price>
+    <price-with-discount>1028.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carri Knapik</customer-name>
+    <discount>0.0500000</discount>
+    <price>99.90</price>
+    <price-with-discount>94.905000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Natalie Poli</customer-name>
+    <discount>0.1000000</discount>
+    <price>1209.90</price>
+    <price-with-discount>1088.910000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.4000000</discount>
+    <price>1009.90</price>
+    <price-with-discount>605.940000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carri Knapik</customer-name>
+    <discount>0.5000000</discount>
+    <price>4009.90</price>
+    <price-with-discount>2004.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Garret Capron</customer-name>
+    <discount>0.4000000</discount>
+    <price>1069.90</price>
+    <price-with-discount>641.940000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.5000000</discount>
+    <price>569.90</price>
+    <price-with-discount>284.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.0000000</discount>
+    <price>1069.00</price>
+    <price-with-discount>1069.000000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rico Peer</customer-name>
+    <discount>0.2000000</discount>
+    <price>1009.90</price>
+    <price-with-discount>807.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Jimmy Grossi</customer-name>
+    <discount>0.0500000</discount>
+    <price>12009.90</price>
+    <price-with-discount>11409.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Nisha Markwell</customer-name>
+    <discount>0.4000000</discount>
+    <price>449.30</price>
+    <price-with-discount>269.580000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.2000000</discount>
+    <price>449.30</price>
+    <price-with-discount>359.440000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Brett Brickley</customer-name>
+    <discount>0.3000000</discount>
+    <price>449.30</price>
+    <price-with-discount>314.510000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.5000000</discount>
+    <price>449.30</price>
+    <price-with-discount>224.650000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rico Peer</customer-name>
+    <discount>0.1500000</discount>
+    <price>1069.00</price>
+    <price-with-discount>908.650000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rico Peer</customer-name>
+    <discount>0.4000000</discount>
+    <price>1069.00</price>
+    <price-with-discount>641.400000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Jimmy Grossi</customer-name>
+    <discount>0.1500000</discount>
+    <price>1069.00</price>
+    <price-with-discount>908.650000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Sylvie Mcelravy</customer-name>
+    <discount>0.3000000</discount>
+    <price>1209.90</price>
+    <price-with-discount>846.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Marcelle Griego</customer-name>
+    <discount>0.5000000</discount>
+    <price>1209.90</price>
+    <price-with-discount>604.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Brett Brickley</customer-name>
+    <discount>0.0500000</discount>
+    <price>1009.90</price>
+    <price-with-discount>959.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carri Knapik</customer-name>
+    <discount>0.0500000</discount>
+    <price>9.90</price>
+    <price-with-discount>9.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Cinthia Lasala</customer-name>
+    <discount>0.2000000</discount>
+    <price>69.90</price>
+    <price-with-discount>55.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rico Peer</customer-name>
+    <discount>0.0000000</discount>
+    <price>69.90</price>
+    <price-with-discount>69.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.2000000</discount>
+    <price>229.90</price>
+    <price-with-discount>183.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Daniele Zarate</customer-name>
+    <discount>0.0500000</discount>
+    <price>229.90</price>
+    <price-with-discount>218.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Yvonne Mccalla</customer-name>
+    <discount>0.2000000</discount>
+    <price>103.40</price>
+    <price-with-discount>82.720000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Francis Mckim</customer-name>
+    <discount>0.3000000</discount>
+    <price>229.90</price>
+    <price-with-discount>160.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Ann Mcenaney</customer-name>
+    <discount>0.1500000</discount>
+    <price>229.90</price>
+    <price-with-discount>195.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rico Peer</customer-name>
+    <discount>0.3000000</discount>
+    <price>1002.50</price>
+    <price-with-discount>701.750000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rico Peer</customer-name>
+    <discount>0.1500000</discount>
+    <price>1002.50</price>
+    <price-with-discount>852.125000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Sylvie Mcelravy</customer-name>
+    <discount>0.4000000</discount>
+    <price>10209.90</price>
+    <price-with-discount>6125.940000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Jimmy Grossi</customer-name>
+    <discount>0.0000000</discount>
+    <price>109.90</price>
+    <price-with-discount>109.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.0000000</discount>
+    <price>109.90</price>
+    <price-with-discount>109.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Daniele Zarate</customer-name>
+    <discount>0.4000000</discount>
+    <price>9999.90</price>
+    <price-with-discount>5999.940000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.1000000</discount>
+    <price>119.90</price>
+    <price-with-discount>107.910000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.3000000</discount>
+    <price>1309.90</price>
+    <price-with-discount>916.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Emmitt Benally</customer-name>
+    <discount>0.0500000</discount>
+    <price>1309.90</price>
+    <price-with-discount>1244.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carole Witman</customer-name>
+    <discount>0.3000000</discount>
+    <price>1079.90</price>
+    <price-with-discount>755.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hai Everton</customer-name>
+    <discount>0.0500000</discount>
+    <price>449.90</price>
+    <price-with-discount>427.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Johnette Derryberry</customer-name>
+    <discount>0.1000000</discount>
+    <price>4219.90</price>
+    <price-with-discount>3797.910000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Brett Brickley</customer-name>
+    <discount>0.5000000</discount>
+    <price>1009.90</price>
+    <price-with-discount>504.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.1000000</discount>
+    <price>1009.90</price>
+    <price-with-discount>908.910000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Taina Achenbach</customer-name>
+    <discount>0.2000000</discount>
+    <price>1009.90</price>
+    <price-with-discount>807.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Ann Mcenaney</customer-name>
+    <discount>0.2000000</discount>
+    <price>103.40</price>
+    <price-with-discount>82.720000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.2000000</discount>
+    <price>1309.90</price>
+    <price-with-discount>1047.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Daniele Zarate</customer-name>
+    <discount>0.5000000</discount>
+    <price>1309.90</price>
+    <price-with-discount>654.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Teddy Hobby</customer-name>
+    <discount>0.2000000</discount>
+    <price>104.90</price>
+    <price-with-discount>83.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Nisha Markwell</customer-name>
+    <discount>0.1500000</discount>
+    <price>149.90</price>
+    <price-with-discount>127.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Yvonne Mccalla</customer-name>
+    <discount>0.0000000</discount>
+    <price>660297.00</price>
+    <price-with-discount>660297.000000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Faustina Burgher</customer-name>
+    <discount>0.4000000</discount>
+    <price>1009.80</price>
+    <price-with-discount>605.880000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Daniele Zarate</customer-name>
+    <discount>0.3000000</discount>
+    <price>1009.80</price>
+    <price-with-discount>706.860000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Zada Attwood</customer-name>
+    <discount>0.2000000</discount>
+    <price>1009.80</price>
+    <price-with-discount>807.840000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Natalie Poli</customer-name>
+    <discount>0.1000000</discount>
+    <price>1009.80</price>
+    <price-with-discount>908.820000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Marcelle Griego</customer-name>
+    <discount>0.3000000</discount>
+    <price>149.90</price>
+    <price-with-discount>104.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.2000000</discount>
+    <price>149.90</price>
+    <price-with-discount>119.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carole Witman</customer-name>
+    <discount>0.3000000</discount>
+    <price>149.90</price>
+    <price-with-discount>104.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.2000000</discount>
+    <price>1409.90</price>
+    <price-with-discount>1127.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Garret Capron</customer-name>
+    <discount>0.2000000</discount>
+    <price>1409.90</price>
+    <price-with-discount>1127.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Yvonne Mccalla</customer-name>
+    <discount>0.3000000</discount>
+    <price>1002.50</price>
+    <price-with-discount>701.750000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Daniele Zarate</customer-name>
+    <discount>0.0000000</discount>
+    <price>4.00</price>
+    <price-with-discount>4.000000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Garret Capron</customer-name>
+    <discount>0.1500000</discount>
+    <price>1449.90</price>
+    <price-with-discount>1232.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Cinthia Lasala</customer-name>
+    <discount>0.0500000</discount>
+    <price>1009.90</price>
+    <price-with-discount>959.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Audrea Cardinal</customer-name>
+    <discount>0.5000000</discount>
+    <price>1099.90</price>
+    <price-with-discount>549.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Nisha Markwell</customer-name>
+    <discount>0.0000000</discount>
+    <price>23319.90</price>
+    <price-with-discount>23319.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Taina Achenbach</customer-name>
+    <discount>0.1500000</discount>
+    <price>889.90</price>
+    <price-with-discount>756.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.3000000</discount>
+    <price>1209.90</price>
+    <price-with-discount>846.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carole Witman</customer-name>
+    <discount>0.1000000</discount>
+    <price>799.90</price>
+    <price-with-discount>719.910000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hai Everton</customer-name>
+    <discount>0.0500000</discount>
+    <price>679.90</price>
+    <price-with-discount>645.905000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.0500000</discount>
+    <price>1009.90</price>
+    <price-with-discount>959.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Nisha Markwell</customer-name>
+    <discount>0.0500000</discount>
+    <price>1009.90</price>
+    <price-with-discount>959.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rico Peer</customer-name>
+    <discount>0.1500000</discount>
+    <price>1069.90</price>
+    <price-with-discount>909.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Audrea Cardinal</customer-name>
+    <discount>0.1000000</discount>
+    <price>1069.90</price>
+    <price-with-discount>962.910000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carole Witman</customer-name>
+    <discount>0.5000000</discount>
+    <price>1209.90</price>
+    <price-with-discount>604.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Faustina Burgher</customer-name>
+    <discount>0.0500000</discount>
+    <price>1099.90</price>
+    <price-with-discount>1044.905000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.2000000</discount>
+    <price>1209.90</price>
+    <price-with-discount>967.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Emmitt Benally</customer-name>
+    <discount>0.0500000</discount>
+    <price>344996.55</price>
+    <price-with-discount>327746.722500</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Jimmy Grossi</customer-name>
+    <discount>0.1500000</discount>
+    <price>9999.90</price>
+    <price-with-discount>8499.915000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Sylvie Mcelravy</customer-name>
+    <discount>0.5000000</discount>
+    <price>10029.90</price>
+    <price-with-discount>5014.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Louann Holzworth</customer-name>
+    <discount>0.3000000</discount>
+    <price>30009.90</price>
+    <price-with-discount>21006.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Faustina Burgher</customer-name>
+    <discount>0.0500000</discount>
+    <price>103.40</price>
+    <price-with-discount>98.230000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hai Everton</customer-name>
+    <discount>0.1000000</discount>
+    <price>1002.90</price>
+    <price-with-discount>902.610000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Nisha Markwell</customer-name>
+    <discount>0.1500000</discount>
+    <price>1409.90</price>
+    <price-with-discount>1198.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.1500000</discount>
+    <price>4009.90</price>
+    <price-with-discount>3408.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Yvonne Mccalla</customer-name>
+    <discount>0.2000000</discount>
+    <price>344996.55</price>
+    <price-with-discount>275997.240000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hipolito Lamoreaux</customer-name>
+    <discount>0.5000000</discount>
+    <price>344996.55</price>
+    <price-with-discount>172498.275000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carole Witman</customer-name>
+    <discount>0.0000000</discount>
+    <price>452.90</price>
+    <price-with-discount>452.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Emmitt Benally</customer-name>
+    <discount>0.1000000</discount>
+    <price>1000.00</price>
+    <price-with-discount>900.000000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Cinthia Lasala</customer-name>
+    <discount>0.1000000</discount>
+    <price>399.90</price>
+    <price-with-discount>359.910000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.1500000</discount>
+    <price>1309.90</price>
+    <price-with-discount>1113.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Yvonne Mccalla</customer-name>
+    <discount>0.0500000</discount>
+    <price>1009.10</price>
+    <price-with-discount>958.645000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Jimmy Grossi</customer-name>
+    <discount>0.0500000</discount>
+    <price>69.90</price>
+    <price-with-discount>66.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rema Revelle</customer-name>
+    <discount>0.0000000</discount>
+    <price>109.90</price>
+    <price-with-discount>109.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Lino Subia</customer-name>
+    <discount>0.5000000</discount>
+    <price>1309.90</price>
+    <price-with-discount>654.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rema Revelle</customer-name>
+    <discount>0.3000000</discount>
+    <price>1069.90</price>
+    <price-with-discount>748.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Francis Mckim</customer-name>
+    <discount>0.5000000</discount>
+    <price>19009.90</price>
+    <price-with-discount>9504.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hipolito Lamoreaux</customer-name>
+    <discount>0.1500000</discount>
+    <price>69.90</price>
+    <price-with-discount>59.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.0000000</discount>
+    <price>1009.90</price>
+    <price-with-discount>1009.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hipolito Lamoreaux</customer-name>
+    <discount>0.5000000</discount>
+    <price>6009.90</price>
+    <price-with-discount>3004.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Faustina Burgher</customer-name>
+    <discount>0.2000000</discount>
+    <price>4449.90</price>
+    <price-with-discount>3559.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.1500000</discount>
+    <price>10509.90</price>
+    <price-with-discount>8933.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Brett Brickley</customer-name>
+    <discount>0.5000000</discount>
+    <price>10509.90</price>
+    <price-with-discount>5254.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Brett Brickley</customer-name>
+    <discount>0.1000000</discount>
+    <price>1449.90</price>
+    <price-with-discount>1304.910000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Sylvie Mcelravy</customer-name>
+    <discount>0.0500000</discount>
+    <price>1449.90</price>
+    <price-with-discount>1377.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rema Revelle</customer-name>
+    <discount>0.5000000</discount>
+    <price>1309.90</price>
+    <price-with-discount>654.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Donnetta Soliz</customer-name>
+    <discount>0.5000000</discount>
+    <price>1002.50</price>
+    <price-with-discount>501.250000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Audrea Cardinal</customer-name>
+    <discount>0.0500000</discount>
+    <price>1309.90</price>
+    <price-with-discount>1244.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Marcelle Griego</customer-name>
+    <discount>0.4000000</discount>
+    <price>1309.90</price>
+    <price-with-discount>785.940000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Teddy Hobby</customer-name>
+    <discount>0.3000000</discount>
+    <price>1309.90</price>
+    <price-with-discount>916.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Donnetta Soliz</customer-name>
+    <discount>0.0000000</discount>
+    <price>9999.90</price>
+    <price-with-discount>9999.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Lino Subia</customer-name>
+    <discount>0.2000000</discount>
+    <price>79.90</price>
+    <price-with-discount>63.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Brett Brickley</customer-name>
+    <discount>0.2000000</discount>
+    <price>20198.00</price>
+    <price-with-discount>16158.400000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Brett Brickley</customer-name>
+    <discount>0.3000000</discount>
+    <price>4449.90</price>
+    <price-with-discount>3114.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hipolito Lamoreaux</customer-name>
+    <discount>0.2000000</discount>
+    <price>4449.90</price>
+    <price-with-discount>3559.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Emmitt Benally</customer-name>
+    <discount>0.3000000</discount>
+    <price>1409.90</price>
+    <price-with-discount>986.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Johnette Derryberry</customer-name>
+    <discount>0.0000000</discount>
+    <price>1409.90</price>
+    <price-with-discount>1409.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Zada Attwood</customer-name>
+    <discount>0.1500000</discount>
+    <price>829.90</price>
+    <price-with-discount>705.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.3000000</discount>
+    <price>14003.40</price>
+    <price-with-discount>9802.380000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Marcelle Griego</customer-name>
+    <discount>0.0500000</discount>
+    <price>1009.90</price>
+    <price-with-discount>959.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Teddy Hobby</customer-name>
+    <discount>0.1500000</discount>
+    <price>1209.90</price>
+    <price-with-discount>1028.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Kristian Engberg</customer-name>
+    <discount>0.0000000</discount>
+    <price>1209.90</price>
+    <price-with-discount>1209.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Garret Capron</customer-name>
+    <discount>0.3000000</discount>
+    <price>1049.90</price>
+    <price-with-discount>734.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Garret Capron</customer-name>
+    <discount>0.1500000</discount>
+    <price>1049.90</price>
+    <price-with-discount>892.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rema Revelle</customer-name>
+    <discount>0.0500000</discount>
+    <price>109.90</price>
+    <price-with-discount>104.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Taina Achenbach</customer-name>
+    <discount>0.1500000</discount>
+    <price>989.90</price>
+    <price-with-discount>841.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Yvonne Mccalla</customer-name>
+    <discount>0.0000000</discount>
+    <price>949.90</price>
+    <price-with-discount>949.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Emmitt Benally</customer-name>
+    <discount>0.2000000</discount>
+    <price>949.90</price>
+    <price-with-discount>759.920000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rema Revelle</customer-name>
+    <discount>0.0500000</discount>
+    <price>1009.00</price>
+    <price-with-discount>958.550000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carole Witman</customer-name>
+    <discount>0.1000000</discount>
+    <price>1002.90</price>
+    <price-with-discount>902.610000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Carole Witman</customer-name>
+    <discount>0.1500000</discount>
+    <price>1006.60</price>
+    <price-with-discount>855.610000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Ann Mcenaney</customer-name>
+    <discount>0.4000000</discount>
+    <price>1009.80</price>
+    <price-with-discount>605.880000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hai Everton</customer-name>
+    <discount>0.0500000</discount>
+    <price>1209.90</price>
+    <price-with-discount>1149.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Oren Perlman</customer-name>
+    <discount>0.1500000</discount>
+    <price>1309.90</price>
+    <price-with-discount>1113.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Zada Attwood</customer-name>
+    <discount>0.0000000</discount>
+    <price>10013.40</price>
+    <price-with-discount>10013.400000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Garret Capron</customer-name>
+    <discount>0.1500000</discount>
+    <price>1009.10</price>
+    <price-with-discount>857.735000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Sylvie Mcelravy</customer-name>
+    <discount>0.5000000</discount>
+    <price>1239.90</price>
+    <price-with-discount>619.950000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Teddy Hobby</customer-name>
+    <discount>0.4000000</discount>
+    <price>1239.90</price>
+    <price-with-discount>743.940000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Lino Subia</customer-name>
+    <discount>0.1000000</discount>
+    <price>10013.40</price>
+    <price-with-discount>9012.060000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rico Peer</customer-name>
+    <discount>0.4000000</discount>
+    <price>6009.90</price>
+    <price-with-discount>3605.940000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Marcelle Griego</customer-name>
+    <discount>0.0500000</discount>
+    <price>1209.90</price>
+    <price-with-discount>1149.405000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Francis Mckim</customer-name>
+    <discount>0.1500000</discount>
+    <price>1609.90</price>
+    <price-with-discount>1368.415000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Hipolito Lamoreaux</customer-name>
+    <discount>0.1000000</discount>
+    <price>1009.80</price>
+    <price-with-discount>908.820000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Daniele Zarate</customer-name>
+    <discount>0.0000000</discount>
+    <price>1049.90</price>
+    <price-with-discount>1049.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Rema Revelle</customer-name>
+    <discount>0.3000000</discount>
+    <price>1309.90</price>
+    <price-with-discount>916.930000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Marcelle Griego</customer-name>
+    <discount>0.0000000</discount>
+    <price>109.90</price>
+    <price-with-discount>109.900000</price-with-discount>
+  </sale>
+  <sale>
+    <customer-name>Zada Attwood</customer-name>
+    <discount>0.3000000</discount>
+    <price>9.90</price>
+    <price-with-discount>6.930000</price-with-discount>
+  </sale>
+</sales>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albums>
+	<album>
+		<name>To Pimp a Butterfly</name>
+		<artist>Kendrick Lamar</artist>
+		<year>2015</year>
+		<producer>Various</producer>
+		<price>9.99</price>
+		<songs>
+			<song>
+				<name>Wesley's Theory</name>
+				<duration>4:47</duration>
+			</song>
+			
+			<song>
+				<name>For Free? (Interlude)</name>
+				<duration>2:10</duration>
+			</song>
+			
+			<song>
+				<name>King Kunta</name>
+				<duration>3:54</duration>
+			</song>
+			
+			<song>
+				<name>Institutionalized</name>
+				<duration>4:31</duration>
+			</song>
+			
+			<song>
+				<name>These Walls</name>
+				<duration>5:01</duration>
+			</song>
+			
+			<song>
+				<name>u</name>
+				<duration>4:28</duration>
+			</song>
+			
+			<song>
+				<name>Alright</name>
+				<duration>3:39</duration>
+			</song>
+			
+			<song>
+				<name>For Sale? (Interlude)</name>
+				<duration>4:51</duration>
+			</song>
+			
+			<song>
+				<name>Momma</name>
+				<duration>4:43</duration>
+			</song>
+			
+			<song>
+				<name>Hood Politics</name>
+				<duration>4:52</duration>
+			</song>
+			
+			<song>
+				<name>How Much A Dollar Cost</name>
+				<duration>4:21</duration>
+			</song>
+			
+			<song>
+				<name>Complexion (A Zulu Love)</name>
+				<duration>4:23</duration>
+			</song>
+			
+			<song>
+				<name>The Blacker The Berry</name>
+				<duration>5:28</duration>
+			</song>
+			
+			<song>
+				<name>You Ain't Gotta Lie (Momma Said)</name>
+				<duration>4:01</duration>
+			</song>
+			
+			<song>
+				<name>i</name>
+				<duration>5:36</duration>
+			</song>
+			
+			<song>
+				<name>Mortal Man</name>
+				<duration>2:07</duration>
+			</song>
+		</songs>
+	</album>
+</albums>
