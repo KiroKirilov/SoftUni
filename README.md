@@ -91,3 +91,4 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [Best practices and architecture](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/BestPracticesAndArchitecture)
        - [XML Processing](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/XMLProcessing)
        - [JSON Processing](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/JSONProcessing)
+       - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/ExamPreps)
