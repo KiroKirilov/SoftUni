@@ -93,3 +93,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [JSON Processing](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/JSONProcessing)
        - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/ExamPreps)
        - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/Exam%20(SoftJail))
+       
+    - [**C# DB Fundamentals**](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals)
+      - [Databases basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics) - [Certificate](https://softuni.bg/certificates/details/55518/d79cdd70)
+        - [Databases used](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/Databases)
