@@ -79,7 +79,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [Additional exercises](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/AdditionalExercises/AdditionalExercises)
        - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/ExamPreps)
        - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesBasics/Exam(TripService))
-     - [Databases advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced)
+     - [Databases advanced](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced) - [Certificate](https://softuni.bg/certificates/details/57036/5e1afc24)
        - [Introduction to DB apps](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/IntroductionToDBApps)
        - [ORM fundamentals](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/ORMFundamentals)
        - [Introduction to Enitity Framework](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/IntroductionToEntityFramework)
