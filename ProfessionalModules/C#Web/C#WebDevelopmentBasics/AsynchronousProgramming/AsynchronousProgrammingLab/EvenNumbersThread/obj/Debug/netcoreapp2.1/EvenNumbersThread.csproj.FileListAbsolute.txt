@@ -1,0 +1,11 @@
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\bin\Debug\netcoreapp2.1\EvenNumbersThread.deps.json
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\bin\Debug\netcoreapp2.1\EvenNumbersThread.runtimeconfig.json
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\bin\Debug\netcoreapp2.1\EvenNumbersThread.runtimeconfig.dev.json
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\bin\Debug\netcoreapp2.1\EvenNumbersThread.dll
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\bin\Debug\netcoreapp2.1\EvenNumbersThread.pdb
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\obj\Debug\netcoreapp2.1\EvenNumbersThread.csprojResolveAssemblyReference.cache
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\obj\Debug\netcoreapp2.1\EvenNumbersThread.csproj.CoreCompileInputs.cache
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\obj\Debug\netcoreapp2.1\EvenNumbersThread.AssemblyInfoInputs.cache
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\obj\Debug\netcoreapp2.1\EvenNumbersThread.AssemblyInfo.cs
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\obj\Debug\netcoreapp2.1\EvenNumbersThread.dll
+C:\Projects\AsynchronousProgramming\EvenNumbersThread\obj\Debug\netcoreapp2.1\EvenNumbersThread.pdb

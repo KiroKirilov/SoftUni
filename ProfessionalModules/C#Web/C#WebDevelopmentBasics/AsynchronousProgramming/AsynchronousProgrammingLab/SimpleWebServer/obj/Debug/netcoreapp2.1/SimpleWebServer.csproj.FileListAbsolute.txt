@@ -1,0 +1,11 @@
+C:\Projects\AsynchronousProgramming\SimpleWebServer\bin\Debug\netcoreapp2.1\SimpleWebServer.deps.json
+C:\Projects\AsynchronousProgramming\SimpleWebServer\bin\Debug\netcoreapp2.1\SimpleWebServer.runtimeconfig.json
+C:\Projects\AsynchronousProgramming\SimpleWebServer\bin\Debug\netcoreapp2.1\SimpleWebServer.runtimeconfig.dev.json
+C:\Projects\AsynchronousProgramming\SimpleWebServer\bin\Debug\netcoreapp2.1\SimpleWebServer.dll
+C:\Projects\AsynchronousProgramming\SimpleWebServer\bin\Debug\netcoreapp2.1\SimpleWebServer.pdb
+C:\Projects\AsynchronousProgramming\SimpleWebServer\obj\Debug\netcoreapp2.1\SimpleWebServer.csprojResolveAssemblyReference.cache
+C:\Projects\AsynchronousProgramming\SimpleWebServer\obj\Debug\netcoreapp2.1\SimpleWebServer.csproj.CoreCompileInputs.cache
+C:\Projects\AsynchronousProgramming\SimpleWebServer\obj\Debug\netcoreapp2.1\SimpleWebServer.AssemblyInfoInputs.cache
+C:\Projects\AsynchronousProgramming\SimpleWebServer\obj\Debug\netcoreapp2.1\SimpleWebServer.AssemblyInfo.cs
+C:\Projects\AsynchronousProgramming\SimpleWebServer\obj\Debug\netcoreapp2.1\SimpleWebServer.dll
+C:\Projects\AsynchronousProgramming\SimpleWebServer\obj\Debug\netcoreapp2.1\SimpleWebServer.pdb

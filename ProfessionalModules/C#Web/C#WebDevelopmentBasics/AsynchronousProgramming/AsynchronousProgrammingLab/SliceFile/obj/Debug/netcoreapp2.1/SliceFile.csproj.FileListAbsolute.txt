@@ -1,0 +1,10 @@
+C:\Projects\AsynchronousProgramming\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.deps.json
+C:\Projects\AsynchronousProgramming\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.runtimeconfig.json
+C:\Projects\AsynchronousProgramming\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.runtimeconfig.dev.json
+C:\Projects\AsynchronousProgramming\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.dll
+C:\Projects\AsynchronousProgramming\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.pdb
+C:\Projects\AsynchronousProgramming\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.csproj.CoreCompileInputs.cache
+C:\Projects\AsynchronousProgramming\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.AssemblyInfoInputs.cache
+C:\Projects\AsynchronousProgramming\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.AssemblyInfo.cs
+C:\Projects\AsynchronousProgramming\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.dll
+C:\Projects\AsynchronousProgramming\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.pdb

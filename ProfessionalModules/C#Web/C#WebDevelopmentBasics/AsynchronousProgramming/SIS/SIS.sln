@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS.HTTP", "SIS.HTTP\SIS.HTTP.csproj", "{3579997B-CBF7-4641-B1BD-3B9CED949E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS.WebServer", "SIS.WebServer\SIS.WebServer.csproj", "{96D156B6-60E6-4BD9-99D3-FBF7F11A7E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS.Demo", "SIS.Demo\SIS.Demo.csproj", "{E3CC2279-BD75-410B-8F6C-CA8D485AEC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3579997B-CBF7-4641-B1BD-3B9CED949E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3579997B-CBF7-4641-B1BD-3B9CED949E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3579997B-CBF7-4641-B1BD-3B9CED949E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3579997B-CBF7-4641-B1BD-3B9CED949E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D156B6-60E6-4BD9-99D3-FBF7F11A7E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D156B6-60E6-4BD9-99D3-FBF7F11A7E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D156B6-60E6-4BD9-99D3-FBF7F11A7E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D156B6-60E6-4BD9-99D3-FBF7F11A7E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CC2279-BD75-410B-8F6C-CA8D485AEC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CC2279-BD75-410B-8F6C-CA8D485AEC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CC2279-BD75-410B-8F6C-CA8D485AEC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CC2279-BD75-410B-8F6C-CA8D485AEC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC81DCE-7BAB-443E-A667-39F24A7EE966}
+	EndGlobalSection
+EndGlobal
