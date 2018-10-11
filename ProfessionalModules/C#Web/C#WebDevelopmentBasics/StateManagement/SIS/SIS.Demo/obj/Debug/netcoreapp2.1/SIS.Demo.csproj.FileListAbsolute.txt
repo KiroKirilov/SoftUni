@@ -1,0 +1,15 @@
+C:\Projects\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.deps.json
+C:\Projects\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.json
+C:\Projects\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.dev.json
+C:\Projects\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.dll
+C:\Projects\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.pdb
+C:\Projects\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Projects\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Projects\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Projects\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Projects\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csprojResolveAssemblyReference.cache
+C:\Projects\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csproj.CoreCompileInputs.cache
+C:\Projects\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfoInputs.cache
+C:\Projects\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfo.cs
+C:\Projects\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.dll
+C:\Projects\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.pdb
