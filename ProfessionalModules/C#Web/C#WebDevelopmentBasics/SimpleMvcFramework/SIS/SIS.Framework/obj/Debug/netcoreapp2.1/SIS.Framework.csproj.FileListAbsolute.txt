@@ -1,0 +1,13 @@
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.Framework.deps.json
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.Framework.dll
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.Framework.pdb
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.AssemblyInfoInputs.cache
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.AssemblyInfo.cs
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.dll
+C:\Users\7h3ph\Desktop\SIS-master\src\SIS.Framework\obj\Debug\netcoreapp2.1\SIS.Framework.pdb
