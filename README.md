@@ -99,3 +99,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Html and css](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/HtmlAndCss)
       - [Http protocol](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/HTTPProtocol)
       - [Asynchronous programming](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/AsynchronousProgramming)
+      - [State management](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/StateManagement)
+      - [Databases - complex web applications](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/Databases-ComplexWebApplications)
+      - [Data visualization](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/DataVisualization)
+      - [Simple mvc framework](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/SimpleMvcFramework)
