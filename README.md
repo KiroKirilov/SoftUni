@@ -95,7 +95,7 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
        - [Exam](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/Exam%20(SoftJail))
        
   - [**C# Web**](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web)
-    - [C# Web development basics/](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics)
+    - [C# Web development basics](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics)
       - [Html and css](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/HtmlAndCss)
       - [Http protocol](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/HTTPProtocol)
       - [Asynchronous programming](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/AsynchronousProgramming)
