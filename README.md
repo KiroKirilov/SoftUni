@@ -104,3 +104,5 @@ Solutions to the problems given throughout the course of my educataion in SoftUn
       - [Data visualization](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/DataVisualization)
       - [Simple mvc framework](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/SimpleMvcFramework)
       - [Extending the mvc framework - data binding, data validation and IoC](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/ExtendingMvcFramework-DataBinding%2CDataValidation%26IoC)
+      - [View engine and security](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23Web/C%23WebDevelopmentBasics/ViewEngineAndSecurity)
+      - [Exam preparations](https://github.com/KiroKirilov/SoftUni/tree/master/ProfessionalModules/C%23DBFundamentals/DatabasesAdvanced/ExamPreps)
