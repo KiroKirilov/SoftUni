@@ -1,0 +1,70 @@
+﻿<h1 class="text-center">Delete Product</h1>
+<hr class="hr-2 bg-dark" />
+<form class="mx-auto w-50" method="post" action="/Products/Delete">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" disabled id="name" placeholder="Name..." value="@Model.Name" name="name">
+    </div>
+    <div class="form-group">
+        <label for="price">Price</label>
+        <input type="number" step="0.01" disabled class="form-control" id="price" value="@Model.Price" placeholder="Price..." name="price">
+    </div>
+    <div class="form-group">
+        <label for="description">Description</label>
+        <textarea class="form-control" disabled name="Description" id="description" placeholder="Description...">@Model.Description</textarea>
+    </div>  
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <h1 class="text-center">Product type</h1>
+    <hr class="bg-dark w-50 hr-2" />
+    <div class="row justify-content-around">
+        <div class="col-md-2">
+            @if(@Model.Type=="Food"){
+            <input name="type" id="Food" disabled checked value="Food" type="radio" />
+            }
+            @else {
+            <input name="type" id="Food" disabled value="Food" type="radio" />
+            }
+            <label for="Food" class="text-mishmash">Food</label>
+        </div>
+        <div class="col-md-2">
+            @if(@Model.Type=="Domestic"){
+            <input name="type" id="Domestic" disabled checked value="Domestic" type="radio" />
+            }
+            @else {
+            <input name="type" id="Domestic" disabled value="Domestic" type="radio" />
+            }
+            <label for="Domestic" class="text-mishmash">Domestic</label>
+        </div>
+        <div class="col-md-2">
+            @if(@Model.Type=="Food"){
+            <input name="type" id="Health" disabled checked value="Health" type="radio" />
+            }
+            @else {
+            <input name="type" id="Health" disabled value="Health" type="radio" />
+            }
+            <label for="Health" class="text-mishmash">Health</label>
+        </div>
+        <div class="col-md-2">
+            @if(@Model.Type=="Food"){
+            <input name="type" id="Cosmetic" disabled checked value="Cosmetic" type="radio" />
+            }
+            @else {
+            <input name="type" id="Cosmetic" disabled value="Cosmetic" type="radio" />
+            }
+            <label for="Cosmetic" class="text-mishmash">Cosmetic</label>
+        </div>
+        <div class="col-md-2">
+            @if(@Model.Type=="Food"){
+            <input name="type" id="Other" disabled checked value="Other" type="radio" />
+            }
+            @else {
+            <input name="type" id="Other" disabled value="Other" type="radio" />
+            }
+            <label for="Other" class="text-mishmash">Other</label>
+        </div>
+        <hr class="bg-dark w-50 hr-2" />
+    </div>
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn chushka-bg-color">Delete</button>
+    </div>
+</form>

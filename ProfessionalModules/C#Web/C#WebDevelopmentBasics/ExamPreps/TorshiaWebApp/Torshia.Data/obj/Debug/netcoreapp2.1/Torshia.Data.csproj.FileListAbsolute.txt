@@ -1,0 +1,13 @@
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\bin\Debug\netcoreapp2.1\Torshia.Data.deps.json
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\bin\Debug\netcoreapp2.1\Torshia.Data.dll
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\bin\Debug\netcoreapp2.1\Torshia.Data.pdb
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\obj\Debug\netcoreapp2.1\Torshia.Data.csprojResolveAssemblyReference.cache
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\obj\Debug\netcoreapp2.1\Torshia.Data.csproj.CoreCompileInputs.cache
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\obj\Debug\netcoreapp2.1\Torshia.Data.AssemblyInfoInputs.cache
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\obj\Debug\netcoreapp2.1\Torshia.Data.AssemblyInfo.cs
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\obj\Debug\netcoreapp2.1\Torshia.Data.dll
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\obj\Debug\netcoreapp2.1\Torshia.Data.pdb
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\bin\Debug\netcoreapp2.1\Torshia.Data.runtimeconfig.json
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\bin\Debug\netcoreapp2.1\Torshia.Data.runtimeconfig.dev.json
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\bin\Debug\netcoreapp2.1\Torshia.Models.dll
+C:\Users\7h3ph\Desktop\SIS\Apps\Torshia\Torshia.Data\bin\Debug\netcoreapp2.1\Torshia.Models.pdb
