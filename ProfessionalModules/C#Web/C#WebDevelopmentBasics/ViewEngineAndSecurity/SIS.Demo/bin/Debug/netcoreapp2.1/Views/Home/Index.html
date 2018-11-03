@@ -1,0 +1,12 @@
+﻿<h1>MVC Framework is working</h1>
+<h2>@Model.ServiceResult</h2>
+<form method="post" action="/Home/GotIt">
+    <input type="number" placeholder="Enter a number between 1 and 10" name="NumberInput" />
+    <input type="submit" value="Submit number" />
+</form>
+<br />
+<a href="/Home/Forbidden">Go to a forbidden page.</a>
+<br />
+<ul>
+    @Model.Collection.Items(@Item)
+</ul>
